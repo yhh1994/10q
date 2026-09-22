@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - ADBE (Adobe Inc.)",
+    "ticker": "ADBE",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/796343/000079634326000156/adbe-20260828.htm",
+    "date": "2026-09-22"
+  },
+  {
     "title": "10-Q - ORCL (Oracle Corp)",
     "ticker": "ORCL",
     "form": "10-Q",
