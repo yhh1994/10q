@@ -238,6 +238,13 @@
     "date": "2026-08-06"
   },
   {
+    "title": "10-Q - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000055/wynn-20260630.htm",
+    "date": "2026-08-06"
+  },
+  {
     "title": "10-Q - AMD (Advanced Micro Devices, Inc.)",
     "ticker": "AMD",
     "form": "10-Q",
@@ -700,6 +707,13 @@
     "date": "2026-07-22"
   },
   {
+    "title": "10-Q - GEV (GE Vernova Inc.)",
+    "ticker": "GEV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000148/gev-20260630.htm",
+    "date": "2026-07-22"
+  },
+  {
     "title": "10-Q - T (AT&T Inc.)",
     "ticker": "T",
     "form": "10-Q",
@@ -970,6 +984,13 @@
     "ticker": "VITL",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1579733/000119312526210356/vitl-20260329.htm",
+    "date": "2026-05-07"
+  },
+  {
+    "title": "10-Q - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000035/wynn-20260331.htm",
     "date": "2026-05-07"
   },
   {
@@ -1470,6 +1491,13 @@
     "date": "2026-04-22"
   },
   {
+    "title": "10-Q - GEV (GE Vernova Inc.)",
+    "ticker": "GEV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000064/gev-20260331.htm",
+    "date": "2026-04-22"
+  },
+  {
     "title": "10-Q - ISRG (Intuitive Surgical, Inc.)",
     "ticker": "ISRG",
     "form": "10-Q",
@@ -1635,6 +1663,13 @@
     "ticker": "UNH",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000062/unh-20251231.htm",
+    "date": "2026-03-02"
+  },
+  {
+    "title": "10-K - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000013/wynn-20251231.htm",
     "date": "2026-03-02"
   },
   {
@@ -2240,6 +2275,13 @@
     "date": "2026-01-30"
   },
   {
+    "title": "10-K - GEV (GE Vernova Inc.)",
+    "ticker": "GEV",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000015/gev-20251231.htm",
+    "date": "2026-01-29"
+  },
+  {
     "title": "10-K - LMT (Lockheed Martin Corp)",
     "ticker": "LMT",
     "form": "10-K",
@@ -2566,6 +2608,13 @@
     "ticker": "V",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/1403161/000140316125000089/v-20250930.htm",
+    "date": "2025-11-06"
+  },
+  {
+    "title": "10-Q - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000151/wynn-20250930.htm",
     "date": "2025-11-06"
   },
   {
@@ -3003,6 +3052,13 @@
     "date": "2025-10-23"
   },
   {
+    "title": "10-Q - GEV (GE Vernova Inc.)",
+    "ticker": "GEV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000160/gev-20250930.htm",
+    "date": "2025-10-22"
+  },
+  {
     "title": "10-Q - ISRG (Intuitive Surgical, Inc.)",
     "ticker": "ISRG",
     "form": "10-Q",
@@ -3315,6 +3371,13 @@
     "ticker": "VITL",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1579733/000095017025104564/vitl-20250629.htm",
+    "date": "2025-08-07"
+  },
+  {
+    "title": "10-Q - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000113/wynn-20250630.htm",
     "date": "2025-08-07"
   },
   {
@@ -3738,6 +3801,13 @@
     "date": "2025-07-23"
   },
   {
+    "title": "10-Q - GEV (GE Vernova Inc.)",
+    "ticker": "GEV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000133/gev-20250630.htm",
+    "date": "2025-07-23"
+  },
+  {
     "title": "10-Q - ISRG (Intuitive Surgical, Inc.)",
     "ticker": "ISRG",
     "form": "10-Q",
@@ -4078,6 +4148,13 @@
     "ticker": "SOFI",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1818874/000181887425000072/sofi-20250331.htm",
+    "date": "2025-05-06"
+  },
+  {
+    "title": "10-Q - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000084/wynn-20250331.htm",
     "date": "2025-05-06"
   },
   {
@@ -4463,6 +4540,13 @@
     "ticker": "BA",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/12927/000001292725000031/ba-20250331.htm",
+    "date": "2025-04-23"
+  },
+  {
+    "title": "10-Q - GEV (GE Vernova Inc.)",
+    "ticker": "GEV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000073/gev-20250331.htm",
     "date": "2025-04-23"
   },
   {
@@ -5026,6 +5110,13 @@
     "date": "2025-02-13"
   },
   {
+    "title": "10-K - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492225000039/wynn-20241231.htm",
+    "date": "2025-02-13"
+  },
+  {
     "title": "10-K - BMY (Bristol-Myers Squibb Co)",
     "ticker": "BMY",
     "form": "10-K",
@@ -5094,6 +5185,13 @@
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/100885/000010088525000042/unp-20241231.htm",
     "date": "2025-02-07"
+  },
+  {
+    "title": "10-K - GEV (GE Vernova Inc.)",
+    "ticker": "GEV",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681025000011/gev-20241231.htm",
+    "date": "2025-02-06"
   },
   {
     "title": "10-K - PM (Philip Morris International Inc.)",
@@ -5628,6 +5726,13 @@
     "date": "2024-11-04"
   },
   {
+    "title": "10-Q - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492224000160/wynn-20240930.htm",
+    "date": "2024-11-04"
+  },
+  {
     "title": "10-Q - XOM (Exxon Mobil Corp)",
     "ticker": "XOM",
     "form": "10-Q",
@@ -5905,6 +6010,13 @@
     "ticker": "FISV",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/798354/000079835424000190/fisv-20240930.htm",
+    "date": "2024-10-23"
+  },
+  {
+    "title": "10-Q - GEV (GE Vernova Inc.)",
+    "ticker": "GEV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000083/gev-20240930.htm",
     "date": "2024-10-23"
   },
   {
@@ -6286,6 +6398,13 @@
     "date": "2024-08-06"
   },
   {
+    "title": "10-Q - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492224000094/wynn-20240630.htm",
+    "date": "2024-08-06"
+  },
+  {
     "title": "10-Q - BRK-B (Berkshire Hathaway Inc.)",
     "ticker": "BRK-B",
     "form": "10-Q",
@@ -6664,6 +6783,13 @@
     "date": "2024-07-25"
   },
   {
+    "title": "10-Q - GEV (GE Vernova Inc.)",
+    "ticker": "GEV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000067/gev-20240630.htm",
+    "date": "2024-07-24"
+  },
+  {
     "title": "10-Q - GOOGL (Alphabet Inc.)",
     "ticker": "GOOGL",
     "form": "10-Q",
@@ -6979,6 +7105,13 @@
     "date": "2024-05-07"
   },
   {
+    "title": "10-Q - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492224000082/wynn-20240331.htm",
+    "date": "2024-05-07"
+  },
+  {
     "title": "10-Q - BRK-B (Berkshire Hathaway Inc.)",
     "ticker": "BRK-B",
     "form": "10-Q",
@@ -7201,6 +7334,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/310764/000031076424000064/syk-20240331.htm",
     "date": "2024-05-01"
+  },
+  {
+    "title": "10-Q - GEV (GE Vernova Inc.)",
+    "ticker": "GEV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681024000008/gev-20240331.htm",
+    "date": "2024-04-30"
   },
   {
     "title": "10-Q - IBM (International Business Machines Corp)",
@@ -7739,6 +7879,13 @@
     "ticker": "T",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/732717/000073271724000009/t-20231231.htm",
+    "date": "2024-02-23"
+  },
+  {
+    "title": "10-K - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492224000046/wynn-20231231.htm",
     "date": "2024-02-23"
   },
   {
@@ -8348,6 +8495,13 @@
     "ticker": "DUOL",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1562088/000156208823000221/duol-20230930.htm",
+    "date": "2023-11-09"
+  },
+  {
+    "title": "10-Q - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492223000160/wynn-20230930.htm",
     "date": "2023-11-09"
   },
   {
