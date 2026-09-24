@@ -231,6 +231,13 @@
     "date": "2026-08-06"
   },
   {
+    "title": "10-Q - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672826000048/o-20260630.htm",
+    "date": "2026-08-06"
+  },
+  {
     "title": "10-Q - SOFI (SoFi Technologies, Inc.)",
     "ticker": "SOFI",
     "form": "10-Q",
@@ -564,6 +571,13 @@
     "ticker": "CB",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000017/cb-20260630.htm",
+    "date": "2026-07-28"
+  },
+  {
+    "title": "10-Q - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000162828026050215/krc-20260630.htm",
     "date": "2026-07-28"
   },
   {
@@ -973,6 +987,13 @@
     "date": "2026-05-07"
   },
   {
+    "title": "10-Q - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672826000030/o-20260331.htm",
+    "date": "2026-05-07"
+  },
+  {
     "title": "10-Q - SOFI (SoFi Technologies, Inc.)",
     "ticker": "SOFI",
     "form": "10-Q",
@@ -1355,6 +1376,13 @@
     "ticker": "CB",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000011/cb-20260331.htm",
+    "date": "2026-04-28"
+  },
+  {
+    "title": "10-Q - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000162828026028013/krc-20260331.htm",
     "date": "2026-04-28"
   },
   {
@@ -1799,6 +1827,13 @@
     "date": "2026-02-25"
   },
   {
+    "title": "10-K - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672826000011/o-20251231.htm",
+    "date": "2026-02-25"
+  },
+  {
     "title": "10-K - SCHW (Charles Schwab Corp)",
     "ticker": "SCHW",
     "form": "10-K",
@@ -2090,6 +2125,13 @@
     "ticker": "JNJ",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000016/jnj-20251228.htm",
+    "date": "2026-02-11"
+  },
+  {
+    "title": "10-K - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000162828026007051/krc-20251231.htm",
     "date": "2026-02-11"
   },
   {
@@ -2695,6 +2737,13 @@
     "date": "2025-11-04"
   },
   {
+    "title": "10-Q - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672825000148/o-20250930.htm",
+    "date": "2025-11-04"
+  },
+  {
     "title": "10-Q - PFE (Pfizer Inc.)",
     "ticker": "PFE",
     "form": "10-Q",
@@ -2945,6 +2994,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/732712/000073271225000116/vz-20250930.htm",
     "date": "2025-10-29"
+  },
+  {
+    "title": "10-Q - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000162828025046780/krc-20250930.htm",
+    "date": "2025-10-28"
   },
   {
     "title": "10-Q - MDLZ (Mondelez International, Inc.)",
@@ -3360,6 +3416,13 @@
     "date": "2025-08-07"
   },
   {
+    "title": "10-Q - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672825000131/o-20250630.htm",
+    "date": "2025-08-07"
+  },
+  {
     "title": "10-Q - SOFI (SoFi Technologies, Inc.)",
     "ticker": "SOFI",
     "form": "10-Q",
@@ -3672,6 +3735,13 @@
     "ticker": "BA",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/12927/000001292725000062/ba-20250630.htm",
+    "date": "2025-07-29"
+  },
+  {
+    "title": "10-Q - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000102599625000250/krc-20250630.htm",
     "date": "2025-07-29"
   },
   {
@@ -4148,6 +4218,20 @@
     "ticker": "CELH",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1341766/000134176625000080/celh-20250331.htm",
+    "date": "2025-05-06"
+  },
+  {
+    "title": "10-Q - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000102599625000141/krc-20250331.htm",
+    "date": "2025-05-06"
+  },
+  {
+    "title": "10-Q - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672825000096/o-20250331.htm",
     "date": "2025-05-06"
   },
   {
@@ -4900,6 +4984,13 @@
     "date": "2025-02-25"
   },
   {
+    "title": "10-K - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672825000055/o-20241231.htm",
+    "date": "2025-02-25"
+  },
+  {
     "title": "10-K - BRK-B (Berkshire Hathaway Inc.)",
     "ticker": "BRK-B",
     "form": "10-K",
@@ -5114,6 +5205,13 @@
     "ticker": "KHC",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/1637459/000163745925000011/khc-20241228.htm",
+    "date": "2025-02-13"
+  },
+  {
+    "title": "10-K - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000102599625000052/krc-20241231.htm",
     "date": "2025-02-13"
   },
   {
@@ -5684,6 +5782,13 @@
     "date": "2024-11-06"
   },
   {
+    "title": "10-Q - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672824000130/o-20240930.htm",
+    "date": "2024-11-05"
+  },
+  {
     "title": "10-Q - ABBV (AbbVie Inc.)",
     "ticker": "ABBV",
     "form": "10-Q",
@@ -5920,6 +6025,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/310764/000031076424000115/syk-20240930.htm",
     "date": "2024-10-30"
+  },
+  {
+    "title": "10-Q - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000102599624000267/krc-20240930.htm",
+    "date": "2024-10-29"
   },
   {
     "title": "10-Q - MDLZ (Mondelez International, Inc.)",
@@ -6398,6 +6510,13 @@
     "date": "2024-08-06"
   },
   {
+    "title": "10-Q - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672824000118/o-20240630.htm",
+    "date": "2024-08-06"
+  },
+  {
     "title": "10-Q - SOFI (SoFi Technologies, Inc.)",
     "ticker": "SOFI",
     "form": "10-Q",
@@ -6549,6 +6668,13 @@
     "ticker": "EOG",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/821189/000082118924000031/eog-20240630.htm",
+    "date": "2024-08-01"
+  },
+  {
+    "title": "10-Q - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000102599624000207/krc-20240630.htm",
     "date": "2024-08-01"
   },
   {
@@ -7098,6 +7224,13 @@
     "date": "2024-05-07"
   },
   {
+    "title": "10-Q - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672824000077/o-20240331.htm",
+    "date": "2024-05-07"
+  },
+  {
     "title": "10-Q - OXY (Occidental Petroleum Corporation)",
     "ticker": "OXY",
     "form": "10-Q",
@@ -7172,6 +7305,13 @@
     "ticker": "BKNG",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075024000128/hst-20240331.htm",
+    "date": "2024-05-03"
+  },
+  {
+    "title": "10-Q - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000102599624000136/krc-20240331.htm",
     "date": "2024-05-03"
   },
   {
@@ -7959,6 +8099,13 @@
     "date": "2024-02-21"
   },
   {
+    "title": "10-K - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672824000047/o-20231231.htm",
+    "date": "2024-02-21"
+  },
+  {
     "title": "10-K - ABBV (AbbVie Inc.)",
     "ticker": "ABBV",
     "form": "10-K",
@@ -8124,6 +8271,13 @@
     "ticker": "AXP",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/4962/000000496224000013/axp-20231231.htm",
+    "date": "2024-02-09"
+  },
+  {
+    "title": "10-K - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000102599624000094/krc-20231231.htm",
     "date": "2024-02-09"
   },
   {
@@ -8575,6 +8729,13 @@
     "date": "2023-11-07"
   },
   {
+    "title": "10-Q - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672823000115/o-20230930.htm",
+    "date": "2023-11-07"
+  },
+  {
     "title": "10-Q - OXY (Occidental Petroleum Corporation)",
     "ticker": "OXY",
     "form": "10-Q",
@@ -8901,6 +9062,13 @@
     "ticker": "HON",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/773840/000077384023000085/hon-20230930.htm",
+    "date": "2023-10-26"
+  },
+  {
+    "title": "10-Q - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000102599623000218/krc-20230930.htm",
     "date": "2023-10-26"
   },
   {
