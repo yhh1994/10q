@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - NKE (NIKE, Inc.)",
+    "ticker": "NKE",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000193/nke-20260831.htm",
+    "date": "2026-10-02"
+  },
+  {
     "title": "10-Q - ADBE (Adobe Inc.)",
     "ticker": "ADBE",
     "form": "10-Q",
