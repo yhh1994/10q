@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - LEN (Lennar Corp)",
+    "ticker": "LEN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/920760/000162828026064557/len-20260831.htm",
+    "date": "2026-10-02"
+  },
+  {
     "title": "10-Q - NKE (NIKE, Inc.)",
     "ticker": "NKE",
     "form": "10-Q",
