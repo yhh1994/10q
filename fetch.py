@@ -13,7 +13,7 @@ def fetch_sp500_historical_filings():
         return
 
     # Calculate date threshold (3 years ago from today)
-    three_years_ago = (datetime.now() - timedelta(days=3*365)).strftime('%Y-%m-%d')
+    three_years_ago = (datetime.now() - timedelta(days=8*365)).strftime('%Y-%m-%d')
     
     # Replace with your actual email address
     headers = {
@@ -74,7 +74,7 @@ def fetch_sp500_historical_filings():
     with open('data.json', 'w') as f:
         json.dump(all_filings, f, indent=2)
 
-    print(f"Successfully saved {len(all_filings)} 10-Q and 10-K filings from the last 3 years.")
+    print(f"Successfully saved {len(all_filings)} 10-Q and 10-K filings from the last 8 years.")
 
 if __name__ == "__main__":
     fetch_sp500_historical_filings()
