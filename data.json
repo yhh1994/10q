@@ -13398,13 +13398,6 @@
     "date": "2022-04-20"
   },
   {
-    "title": "10-Q - PG (Procter & Gamble Co)",
-    "ticker": "PG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/80424/000008042422000035/pg-20220331.htm",
-    "date": "2022-04-20"
-  },
-  {
     "title": "10-Q - NKE (NIKE, Inc.)",
     "ticker": "NKE",
     "form": "10-Q",
@@ -16307,13 +16300,6 @@
     "ticker": "AIG",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/5272/000110465921025742/aig-20201231.htm",
-    "date": "2021-02-19"
-  },
-  {
-    "title": "10-K - MET (MetLife, Inc.)",
-    "ticker": "MET",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1099219/000109921921000050/met-20201231.htm",
     "date": "2021-02-19"
   },
   {
