@@ -175,6 +175,13 @@
     "date": "2026-08-07"
   },
   {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865126000069/oscr-20260630.htm",
+    "date": "2026-08-07"
+  },
+  {
     "title": "10-Q - SCHW (Charles Schwab Corp)",
     "ticker": "SCHW",
     "form": "10-Q",
@@ -249,13 +256,6 @@
     "ticker": "O",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672826000048/o-20260630.htm",
-    "date": "2026-08-06"
-  },
-  {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080626000043/unity-20260630.htm",
     "date": "2026-08-06"
   },
   {
@@ -1018,7 +1018,7 @@
     "title": "10-Q - OSCR (Oscar Health, Inc.)",
     "ticker": "OSCR",
     "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080626000032/unity-20260331.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865126000040/oscr-20260331.htm",
     "date": "2026-05-07"
   },
   {
@@ -2107,6 +2107,13 @@
     "date": "2026-02-13"
   },
   {
+    "title": "10-K - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865126000011/oscr-20251231.htm",
+    "date": "2026-02-13"
+  },
+  {
     "title": "10-K - PLD (Prologis, Inc.)",
     "ticker": "PLD",
     "form": "10-K",
@@ -2167,13 +2174,6 @@
     "ticker": "MA",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000013/ma-20251231.htm",
-    "date": "2026-02-11"
-  },
-  {
-    "title": "10-K - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080626000011/unity-20251231.htm",
     "date": "2026-02-11"
   },
   {
@@ -2674,6 +2674,13 @@
     "date": "2025-11-06"
   },
   {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865125000037/oscr-20250930.htm",
+    "date": "2025-11-06"
+  },
+  {
     "title": "10-Q - SOFI (SoFi Technologies, Inc.)",
     "ticker": "SOFI",
     "form": "10-Q",
@@ -2741,13 +2748,6 @@
     "ticker": "NYT",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/71691/000007169125000126/nyt-20250930.htm",
-    "date": "2025-11-05"
-  },
-  {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080625000169/unity-20250930.htm",
     "date": "2025-11-05"
   },
   {
@@ -3465,6 +3465,13 @@
     "date": "2025-08-07"
   },
   {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865125000025/oscr-20250630.htm",
+    "date": "2025-08-07"
+  },
+  {
     "title": "10-Q - SOFI (SoFi Technologies, Inc.)",
     "ticker": "SOFI",
     "form": "10-Q",
@@ -3539,13 +3546,6 @@
     "ticker": "NYT",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/71691/000007169125000119/nyt-20250630.htm",
-    "date": "2025-08-06"
-  },
-  {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080625000151/unity-20250630.htm",
     "date": "2025-08-06"
   },
   {
@@ -4179,6 +4179,13 @@
     "date": "2025-05-08"
   },
   {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865125000015/oscr-20250331.htm",
+    "date": "2025-05-08"
+  },
+  {
     "title": "10-Q - TJX (TJX Companies, Inc.)",
     "ticker": "TJX",
     "form": "10-Q",
@@ -4232,13 +4239,6 @@
     "ticker": "NYT",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/71691/000007169125000100/nyt-20250331.htm",
-    "date": "2025-05-07"
-  },
-  {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080625000095/unity-20250331.htm",
     "date": "2025-05-07"
   },
   {
@@ -5096,13 +5096,6 @@
     "date": "2025-02-21"
   },
   {
-    "title": "10-K - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080625000026/unity-20241231.htm",
-    "date": "2025-02-21"
-  },
-  {
     "title": "10-Q - AMAT (Applied Materials, Inc.)",
     "ticker": "AMAT",
     "form": "10-Q",
@@ -5128,6 +5121,13 @@
     "ticker": "KO",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/21344/000002134425000011/ko-20241231.htm",
+    "date": "2025-02-20"
+  },
+  {
+    "title": "10-K - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865125000008/oscr-20241231.htm",
     "date": "2025-02-20"
   },
   {
@@ -5785,7 +5785,7 @@
     "title": "10-Q - OSCR (Oscar Health, Inc.)",
     "ticker": "OSCR",
     "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080624000227/unity-20240930.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865124000032/oscr-20240930.htm",
     "date": "2024-11-07"
   },
   {
@@ -6475,13 +6475,6 @@
     "date": "2024-08-08"
   },
   {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080624000189/unity-20240630.htm",
-    "date": "2024-08-08"
-  },
-  {
     "title": "10-Q - SCHW (Charles Schwab Corp)",
     "ticker": "SCHW",
     "form": "10-Q",
@@ -6556,6 +6549,13 @@
     "ticker": "NYT",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/71691/000007169124000132/nyt-20240630.htm",
+    "date": "2024-08-07"
+  },
+  {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865124000023/oscr-20240630.htm",
     "date": "2024-08-07"
   },
   {
@@ -7224,13 +7224,6 @@
     "date": "2024-05-09"
   },
   {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080624000098/unity-20240331.htm",
-    "date": "2024-05-09"
-  },
-  {
     "title": "10-Q - SCHW (Charles Schwab Corp)",
     "ticker": "SCHW",
     "form": "10-Q",
@@ -7312,6 +7305,13 @@
     "ticker": "O",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672824000077/o-20240331.htm",
+    "date": "2024-05-07"
+  },
+  {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865124000015/oscr-20240331.htm",
     "date": "2024-05-07"
   },
   {
@@ -7959,13 +7959,6 @@
     "date": "2024-02-29"
   },
   {
-    "title": "10-K - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080624000053/unity-20231231.htm",
-    "date": "2024-02-29"
-  },
-  {
     "title": "10-K - BK (Bank of New York Mellon Corp)",
     "ticker": "BK",
     "form": "10-K",
@@ -8292,6 +8285,13 @@
     "ticker": "KHC",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/1637459/000163745924000018/khc-20231230.htm",
+    "date": "2024-02-15"
+  },
+  {
+    "title": "10-K - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865124000006/oscr-20231231.htm",
     "date": "2024-02-15"
   },
   {
@@ -8750,13 +8750,6 @@
     "date": "2023-11-09"
   },
   {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080623000181/unity-20230930.htm",
-    "date": "2023-11-09"
-  },
-  {
     "title": "10-Q - WYNN (Wynn Resorts, Limited)",
     "ticker": "WYNN",
     "form": "10-Q",
@@ -8831,6 +8824,13 @@
     "ticker": "O",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672823000115/o-20230930.htm",
+    "date": "2023-11-07"
+  },
+  {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865123000056/oscr-20230930.htm",
     "date": "2023-11-07"
   },
   {
@@ -9471,6 +9471,13 @@
     "date": "2023-08-09"
   },
   {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865123000045/oscr-20230630.htm",
+    "date": "2023-08-09"
+  },
+  {
     "title": "10-Q - PFE (Pfizer Inc.)",
     "ticker": "PFE",
     "form": "10-Q",
@@ -9748,13 +9755,6 @@
     "ticker": "MCD",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/63908/000006390823000076/mcd-20230630.htm",
-    "date": "2023-08-02"
-  },
-  {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080623000128/unity-20230630.htm",
     "date": "2023-08-02"
   },
   {
@@ -10216,7 +10216,7 @@
     "title": "10-Q - OSCR (Oscar Health, Inc.)",
     "ticker": "OSCR",
     "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080623000059/unity-20230331.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865123000029/oscr-20230331.htm",
     "date": "2023-05-10"
   },
   {
@@ -10927,13 +10927,6 @@
     "date": "2023-02-27"
   },
   {
-    "title": "10-K - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080623000016/unity-20221231.htm",
-    "date": "2023-02-27"
-  },
-  {
     "title": "10-K - OXY (Occidental Petroleum Corporation)",
     "ticker": "OXY",
     "form": "10-K",
@@ -10987,6 +10980,13 @@
     "ticker": "NVDA",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000017/nvda-20230129.htm",
+    "date": "2023-02-24"
+  },
+  {
+    "title": "10-K - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865123000017/oscr-20221231.htm",
     "date": "2023-02-24"
   },
   {
@@ -11623,7 +11623,7 @@
     "title": "10-Q - OSCR (Oscar Health, Inc.)",
     "ticker": "OSCR",
     "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080622000084/unity-20220930.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865122000061/oscr-20220930.htm",
     "date": "2022-11-09"
   },
   {
@@ -12271,6 +12271,13 @@
     "date": "2022-08-25"
   },
   {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865122000039/oscr-20220630.htm",
+    "date": "2022-08-12"
+  },
+  {
     "title": "10-Q - TJX (TJX Companies, Inc.)",
     "ticker": "TJX",
     "form": "10-Q",
@@ -12303,13 +12310,6 @@
     "ticker": "CELH",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1341766/000095017022016034/celh-20220630.htm",
-    "date": "2022-08-09"
-  },
-  {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080622000054/unity-20220630.htm",
     "date": "2022-08-09"
   },
   {
@@ -12971,6 +12971,13 @@
     "date": "2022-05-13"
   },
   {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865122000023/oscr-20220331.htm",
+    "date": "2022-05-12"
+  },
+  {
     "title": "10-Q - DIS (Walt Disney Co)",
     "ticker": "DIS",
     "form": "10-Q",
@@ -12989,13 +12996,6 @@
     "ticker": "CELH",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1341766/000095017022008947/celh-20220331.htm",
-    "date": "2022-05-10"
-  },
-  {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080622000018/unity-20220331.htm",
     "date": "2022-05-10"
   },
   {
@@ -13678,6 +13678,13 @@
     "date": "2022-02-25"
   },
   {
+    "title": "10-K - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865122000011/oscr-20211231.htm",
+    "date": "2022-02-25"
+  },
+  {
     "title": "10-Q - AMAT (Applied Materials, Inc.)",
     "ticker": "AMAT",
     "form": "10-Q",
@@ -13829,13 +13836,6 @@
     "ticker": "KO",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/21344/000002134422000009/ko-20211231.htm",
-    "date": "2022-02-22"
-  },
-  {
-    "title": "10-K - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080622000004/unity-20211231.htm",
     "date": "2022-02-22"
   },
   {
@@ -14343,18 +14343,18 @@
     "date": "2021-11-12"
   },
   {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000162828021022972/oscr-20210930.htm",
+    "date": "2021-11-12"
+  },
+  {
     "title": "10-Q - PFE (Pfizer Inc.)",
     "ticker": "PFE",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/78003/000007800321000107/pfe-20211003.htm",
     "date": "2021-11-12"
-  },
-  {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080621000171/unity-20210930.htm",
-    "date": "2021-11-10"
   },
   {
     "title": "10-Q - MET (MetLife, Inc.)",
@@ -14952,6 +14952,13 @@
     "date": "2021-08-16"
   },
   {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865121000019/oscr-20210630.htm",
+    "date": "2021-08-13"
+  },
+  {
     "title": "10-Q - CELH (Celsius Holdings, Inc.)",
     "ticker": "CELH",
     "form": "10-Q",
@@ -14978,13 +14985,6 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/78003/000007800321000093/pfe-20210704.htm",
     "date": "2021-08-12"
-  },
-  {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080621000152/unity-20210630.htm",
-    "date": "2021-08-11"
   },
   {
     "title": "10-Q - VITL (Vital Farms, Inc.)",
@@ -15603,6 +15603,13 @@
     "date": "2021-05-24"
   },
   {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865121000008/oscr-20210331.htm",
+    "date": "2021-05-14"
+  },
+  {
     "title": "10-Q - CELH (Celsius Holdings, Inc.)",
     "ticker": "CELH",
     "form": "10-Q",
@@ -15622,13 +15629,6 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/78003/000007800321000065/pfe-20210404.htm",
     "date": "2021-05-13"
-  },
-  {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080621000103/unity-20210331.htm",
-    "date": "2021-05-12"
   },
   {
     "title": "10-Q - VITL (Vital Farms, Inc.)",
@@ -16223,13 +16223,6 @@
     "ticker": "MDT",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1613103/000161310321000009/mdt-20210129.htm",
-    "date": "2021-03-05"
-  },
-  {
-    "title": "10-K - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080621000052/unity-20201231.htm",
     "date": "2021-03-05"
   },
   {
@@ -16903,13 +16896,6 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/858877/000085887720000015/csco-20201024.htm",
     "date": "2020-11-17"
-  },
-  {
-    "title": "10-Q - OSCR (Oscar Health, Inc.)",
-    "ticker": "OSCR",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1810806/000181080620000011/unity-20200930.htm",
-    "date": "2020-11-13"
   },
   {
     "title": "10-Q - CELH (Celsius Holdings, Inc.)",
