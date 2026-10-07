@@ -85,6 +85,7 @@
   { "ticker": "O", "cik": "0000726728", "name": "Realty Income Corporation" },
   { "ticker": "ORCL", "cik": "0001341439", "name": "Oracle Corp" },
   { "ticker": "ODD", "cik": "0001907085", "name": "Oddity Tech Ltd" },
+  { "ticker": "OSCR", "cik": "0001810806", "name": "Oscar Health, Inc." },
   { "ticker": "OXY", "cik": "0000797468", "name": "Occidental Petroleum Corporation" },
   { "ticker": "PEP", "cik": "0000077476", "name": "PepsiCo, Inc." },
   { "ticker": "PFE", "cik": "0000078003", "name": "Pfizer Inc." },
