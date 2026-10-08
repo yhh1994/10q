@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - PEP (PepsiCo, Inc.)",
+    "ticker": "PEP",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/77476/000007747626000048/pep-20260905.htm",
+    "date": "2026-10-08"
+  },
+  {
     "title": "10-K - COST (Costco Wholesale Corp)",
     "ticker": "COST",
     "form": "10-K",
