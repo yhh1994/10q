@@ -7,6 +7,13 @@
     "date": "2026-10-20"
   },
   {
+    "title": "10-Q - RTX (RTX Corp)",
+    "ticker": "RTX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/101829/000010182926000031/rtx-20260930.htm",
+    "date": "2026-10-20"
+  },
+  {
     "title": "10-K - ACN (Accenture plc)",
     "ticker": "ACN",
     "form": "10-K",
