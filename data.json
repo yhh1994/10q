@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - DHR (Danaher Corp)",
+    "ticker": "DHR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000199/dhr-20260925.htm",
+    "date": "2026-10-21"
+  },
+  {
     "title": "10-Q - MMM (3M Co)",
     "ticker": "MMM",
     "form": "10-Q",
