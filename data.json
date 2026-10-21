@@ -1,9 +1,51 @@
 [
   {
+    "title": "10-Q - CSX (CSX Corp)",
+    "ticker": "CSX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/277948/000027794826000040/csx-20260930.htm",
+    "date": "2026-10-21"
+  },
+  {
     "title": "10-Q - DHR (Danaher Corp)",
     "ticker": "DHR",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/313616/000031361626000199/dhr-20260925.htm",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "10-Q - ISRG (Intuitive Surgical, Inc.)",
+    "ticker": "ISRG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1035267/000103526726000071/isrg-20260930.htm",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "10-Q - JNJ (Johnson & Johnson)",
+    "ticker": "JNJ",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/200406/000020040626000197/jnj-20260927.htm",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "10-Q - NEE (NextEra Energy, Inc.)",
+    "ticker": "NEE",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/753308/000075330826000081/nee-20260930.htm",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "10-Q - NFLX (Netflix, Inc.)",
+    "ticker": "NFLX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1065280/000106528026000291/nflx-20260930.htm",
+    "date": "2026-10-21"
+  },
+  {
+    "title": "10-Q - T (AT&T Inc.)",
+    "ticker": "T",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/732717/000073271726000372/t-20260930.htm",
     "date": "2026-10-21"
   },
   {
