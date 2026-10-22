@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - CMCSA (Comcast Corp)",
+    "ticker": "CMCSA",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1166691/000162828026066863/cmcsa-20260930.htm",
+    "date": "2026-10-22"
+  },
+  {
     "title": "10-Q - HON (Honeywell International Inc.)",
     "ticker": "HON",
     "form": "10-Q",
