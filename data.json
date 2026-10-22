@@ -21,6 +21,13 @@
     "date": "2026-10-22"
   },
   {
+    "title": "10-Q - LMT (Lockheed Martin Corp)",
+    "ticker": "LMT",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/936468/000162828026066928/lmt-20260927.htm",
+    "date": "2026-10-22"
+  },
+  {
     "title": "10-Q - META (Meta Platforms, Inc.)",
     "ticker": "META",
     "form": "10-Q",
@@ -28,10 +35,24 @@
     "date": "2026-10-22"
   },
   {
+    "title": "10-Q - PG (Procter & Gamble Co)",
+    "ticker": "PG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000256/pg-20260930.htm",
+    "date": "2026-10-22"
+  },
+  {
     "title": "10-Q - TSLA (Tesla, Inc.)",
     "ticker": "TSLA",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "10-Q - UNP (Union Pacific Corp)",
+    "ticker": "UNP",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/100885/000010088526000321/unp-20260930.htm",
     "date": "2026-10-22"
   },
   {
