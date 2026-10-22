@@ -1,5 +1,33 @@
 [
   {
+    "title": "10-Q - HON (Honeywell International Inc.)",
+    "ticker": "HON",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/773840/000077384026000143/hon-20260930.htm",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "10-Q - IBM (International Business Machines Corp)",
+    "ticker": "IBM",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000095/ibm-20260930.htm",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "10-Q - META (Meta Platforms, Inc.)",
+    "ticker": "META",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1326801/000162828026066773/meta-20260930.htm",
+    "date": "2026-10-22"
+  },
+  {
+    "title": "10-Q - TSLA (Tesla, Inc.)",
+    "ticker": "TSLA",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1318605/000162828026066775/tsla-20260930.htm",
+    "date": "2026-10-22"
+  },
+  {
     "title": "10-Q - CSX (CSX Corp)",
     "ticker": "CSX",
     "form": "10-Q",
