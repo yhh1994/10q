@@ -7,6 +7,20 @@
     "date": "2026-10-23"
   },
   {
+    "title": "10-Q - CME (CME Group Inc.)",
+    "ticker": "CME",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1156375/000115637526000068/cme-20260930.htm",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "10-Q - KRC (Kilroy Realty Corporation)",
+    "ticker": "KRC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000162828026067051/krc-20260930.htm",
+    "date": "2026-10-23"
+  },
+  {
     "title": "10-Q - PM (Philip Morris International Inc.)",
     "ticker": "PM",
     "form": "10-Q",
