@@ -1,9 +1,23 @@
 [
   {
+    "title": "10-Q - AXP (American Express Co)",
+    "ticker": "AXP",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/4962/000000496226000409/axp-20260930.htm",
+    "date": "2026-10-23"
+  },
+  {
     "title": "10-Q - PM (Philip Morris International Inc.)",
     "ticker": "PM",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026066976/pm-20260930.htm",
+    "date": "2026-10-23"
+  },
+  {
+    "title": "10-Q - TXN (Texas Instruments Inc.)",
+    "ticker": "TXN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/97476/000009747626000169/txn-20260930.htm",
     "date": "2026-10-23"
   },
   {
