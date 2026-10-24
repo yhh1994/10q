@@ -21334,47 +21334,5 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/syk10q93018.htm",
     "date": "2018-10-26"
-  },
-  {
-    "title": "10-Q - CMCSA (Comcast Corp)",
-    "ticker": "CMCSA",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1166691/000116669118000024/cmcsa-9302018x10q.htm",
-    "date": "2018-10-25"
-  },
-  {
-    "title": "10-Q - KRC (Kilroy Realty Corporation)",
-    "ticker": "KRC",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1025996/000102599618000246/form10-q.htm",
-    "date": "2018-10-25"
-  },
-  {
-    "title": "10-Q - LMT (Lockheed Martin Corp)",
-    "ticker": "LMT",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/936468/000093646818000067/lmtq3201810q.htm",
-    "date": "2018-10-25"
-  },
-  {
-    "title": "10-Q - MMM (3M Co)",
-    "ticker": "MMM",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/66740/000155837018007892/mmm-20180930x10q.htm",
-    "date": "2018-10-25"
-  },
-  {
-    "title": "10-Q - MO (Altria Group, Inc.)",
-    "ticker": "MO",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/764180/000076418018000095/a2018form10qq32018.htm",
-    "date": "2018-10-25"
-  },
-  {
-    "title": "10-Q - PM (Philip Morris International Inc.)",
-    "ticker": "PM",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1413329/000141332918000053/pm-093018x10qxdoc.htm",
-    "date": "2018-10-25"
   }
 ]
