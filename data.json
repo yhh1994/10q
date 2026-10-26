@@ -17591,13 +17591,6 @@
     "date": "2020-09-03"
   },
   {
-    "title": "10-K - INTU (Intuit Inc.)",
-    "ticker": "INTU",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/896878/000089687820000148/fy20q410-kdocument.htm",
-    "date": "2020-08-31"
-  },
-  {
     "title": "10-Q - TGT (Target Corp)",
     "ticker": "TGT",
     "form": "10-Q",
@@ -21299,40 +21292,5 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1090727/000109072718000039/ups-09302018x10q.htm",
     "date": "2018-10-30"
-  },
-  {
-    "title": "10-Q - CL (Colgate-Palmolive Co)",
-    "ticker": "CL",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/21665/000002166518000018/cl-9302018x10q.htm",
-    "date": "2018-10-26"
-  },
-  {
-    "title": "10-K - COST (Costco Wholesale Corp)",
-    "ticker": "COST",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/909832/000090983218000013/cost10k9218.htm",
-    "date": "2018-10-26"
-  },
-  {
-    "title": "10-Q - RTX (RTX Corp)",
-    "ticker": "RTX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/101829/000010182918000043/a2018-09x3010xq.htm",
-    "date": "2018-10-26"
-  },
-  {
-    "title": "10-Q - SPGI (S&P Global Inc.)",
-    "ticker": "SPGI",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/64040/000006404018000183/spgi-2018930x10q.htm",
-    "date": "2018-10-26"
-  },
-  {
-    "title": "10-Q - SYK (Stryker Corp)",
-    "ticker": "SYK",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/310764/000031076418000205/syk10q93018.htm",
-    "date": "2018-10-26"
   }
 ]
