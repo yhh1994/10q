@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - BA (Boeing Co)",
+    "ticker": "BA",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/12927/000162828026067508/ba-20260930.htm",
+    "date": "2026-10-27"
+  },
+  {
     "title": "10-Q - AXP (American Express Co)",
     "ticker": "AXP",
     "form": "10-Q",
