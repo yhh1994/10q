@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - CB (Chubb Limited)",
+    "ticker": "CB",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/896159/000089615926000021/cb-20260930.htm",
+    "date": "2026-10-28"
+  },
+  {
     "title": "10-Q - GEV (GE Vernova Inc.)",
     "ticker": "GEV",
     "form": "10-Q",
@@ -7,10 +14,45 @@
     "date": "2026-10-28"
   },
   {
+    "title": "10-Q - KO (Coca-Cola Co)",
+    "ticker": "KO",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/21344/000162828026067844/ko-20261002.htm",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "10-Q - MSFT (Microsoft Corp)",
+    "ticker": "MSFT",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/msft-20260930.htm",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "10-Q - NOW (ServiceNow, Inc.)",
+    "ticker": "NOW",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1373715/000137371526000096/now-20260930.htm",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "10-Q - PLD (Prologis, Inc.)",
+    "ticker": "PLD",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1045609/000119312526436160/pld-20260930.htm",
+    "date": "2026-10-28"
+  },
+  {
     "title": "10-Q - SPGI (S&P Global Inc.)",
     "ticker": "SPGI",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000058/spgi-20260930.htm",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "10-Q - TMUS (T-Mobile US, Inc.)",
+    "ticker": "TMUS",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1283699/000128369926000129/tmus-20260930.htm",
     "date": "2026-10-28"
   },
   {
