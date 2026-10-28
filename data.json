@@ -1,5 +1,19 @@
 [
   {
+    "title": "10-Q - GEV (GE Vernova Inc.)",
+    "ticker": "GEV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1996810/000199681026000163/gev-20260930.htm",
+    "date": "2026-10-28"
+  },
+  {
+    "title": "10-Q - SPGI (S&P Global Inc.)",
+    "ticker": "SPGI",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/64040/000006404026000058/spgi-20260930.htm",
+    "date": "2026-10-28"
+  },
+  {
     "title": "10-Q - BA (Boeing Co)",
     "ticker": "BA",
     "form": "10-Q",
