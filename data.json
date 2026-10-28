@@ -14,6 +14,13 @@
     "date": "2026-10-28"
   },
   {
+    "title": "10-Q - WFC (Wells Fargo & Co)",
+    "ticker": "WFC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/72971/000007297126000327/wfc-20260930.htm",
+    "date": "2026-10-28"
+  },
+  {
     "title": "10-Q - BA (Boeing Co)",
     "ticker": "BA",
     "form": "10-Q",
