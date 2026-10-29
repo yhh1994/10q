@@ -1,5 +1,54 @@
 [
   {
+    "title": "10-Q - BMY (Bristol-Myers Squibb Co)",
+    "ticker": "BMY",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/14272/000001427226000024/bmy-20260930.htm",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "10-Q - GOOGL (Alphabet Inc.)",
+    "ticker": "GOOGL",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "10-Q - LLY (Eli Lilly & Co)",
+    "ticker": "LLY",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/59478/000005947826000108/lly-20260930.htm",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "10-Q - MA (Mastercard Inc.)",
+    "ticker": "MA",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1141391/000114139126000124/ma-20260930.htm",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "10-Q - MO (Altria Group, Inc.)",
+    "ticker": "MO",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/764180/000076418026000114/mo-20260930.htm",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "10-Q - SIRI (Sirius XM Holdings Inc.)",
+    "ticker": "SIRI",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/908937/000090893726000028/siri-20260930.htm",
+    "date": "2026-10-29"
+  },
+  {
+    "title": "10-Q - VZ (Verizon Communications Inc.)",
+    "ticker": "VZ",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/732712/000073271226000052/vz-20260930.htm",
+    "date": "2026-10-29"
+  },
+  {
     "title": "10-Q - CB (Chubb Limited)",
     "ticker": "CB",
     "form": "10-Q",
