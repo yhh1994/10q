@@ -21320,47 +21320,5 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/a3q10q09-30x18.htm",
     "date": "2018-10-31"
-  },
-  {
-    "title": "10-Q - CB (Chubb Limited)",
-    "ticker": "CB",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/896159/000089615918000019/cb-93018x10q.htm",
-    "date": "2018-10-30"
-  },
-  {
-    "title": "10-Q - COP (ConocoPhillips)",
-    "ticker": "COP",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1163165/000119312518311600/d630380d10q.htm",
-    "date": "2018-10-30"
-  },
-  {
-    "title": "10-Q - HD (Home Depot, Inc.)",
-    "ticker": "HD",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/354908/000035490818000089/flir-09302018x10q.htm",
-    "date": "2018-10-30"
-  },
-  {
-    "title": "10-Q - KO (Coca-Cola Co)",
-    "ticker": "KO",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/21344/000002134418000042/a2018092810-q.htm",
-    "date": "2018-10-30"
-  },
-  {
-    "title": "10-Q - MDLZ (Mondelez International, Inc.)",
-    "ticker": "MDLZ",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1103982/000110398218000013/a2018q310-qdocument.htm",
-    "date": "2018-10-30"
-  },
-  {
-    "title": "10-Q - UPS (United Parcel Service, Inc.)",
-    "ticker": "UPS",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1090727/000109072718000039/ups-09302018x10q.htm",
-    "date": "2018-10-30"
   }
 ]
