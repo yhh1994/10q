@@ -1,5 +1,54 @@
 [
   {
+    "title": "10-Q - AMZN (Amazon.com, Inc.)",
+    "ticker": "AMZN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1018724/000101872426000040/amzn-20260930.htm",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "10-Q - BK (Bank of New York Mellon Corp)",
+    "ticker": "BK",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1390777/000139077726000120/bk-20260930.htm",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "10-Q - CL (Colgate-Palmolive Co)",
+    "ticker": "CL",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/21665/000002166526000048/cl-20260930.htm",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "10-Q - GILD (Gilead Sciences, Inc.)",
+    "ticker": "GILD",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/882095/000088209526000039/gild-20260930.htm",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "10-Q - INTC (Intel Corp)",
+    "ticker": "INTC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/50863/000005086326000191/intc-20260926.htm",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "10-Q - SYK (Stryker Corp)",
+    "ticker": "SYK",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/310764/000031076426000061/syk-20260930.htm",
+    "date": "2026-10-30"
+  },
+  {
+    "title": "10-Q - TMO (Thermo Fisher Scientific Inc.)",
+    "ticker": "TMO",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/97745/000009774526000179/tmo-20260926.htm",
+    "date": "2026-10-30"
+  },
+  {
     "title": "10-Q - BMY (Bristol-Myers Squibb Co)",
     "ticker": "BMY",
     "form": "10-Q",
