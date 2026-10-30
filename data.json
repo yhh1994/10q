@@ -21341,33 +21341,5 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672818000108/o-20180930.htm",
     "date": "2018-11-01"
-  },
-  {
-    "title": "10-Q - ABT (Abbott Laboratories)",
-    "ticker": "ABT",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1800/000110465918065076/a18-19028_110q.htm",
-    "date": "2018-10-31"
-  },
-  {
-    "title": "10-Q - AMD (Advanced Micro Devices, Inc.)",
-    "ticker": "AMD",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/2488/000000248818000189/amd0929201810q.htm",
-    "date": "2018-10-31"
-  },
-  {
-    "title": "10-Q - AMGN (Amgen Inc.)",
-    "ticker": "AMGN",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/318154/000031815418000022/amgn-2018930x10q.htm",
-    "date": "2018-10-31"
-  },
-  {
-    "title": "10-Q - JNJ (Johnson & Johnson)",
-    "ticker": "JNJ",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/200406/000020040618000055/a3q10q09-30x18.htm",
-    "date": "2018-10-31"
   }
 ]
