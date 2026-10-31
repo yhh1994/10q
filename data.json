@@ -7,6 +7,13 @@
     "date": "2026-10-30"
   },
   {
+    "title": "10-Q - BAC (Bank of America Corp)",
+    "ticker": "BAC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/70858/000007085826000548/bac-20260930.htm",
+    "date": "2026-10-30"
+  },
+  {
     "title": "10-Q - BK (Bank of New York Mellon Corp)",
     "ticker": "BK",
     "form": "10-Q",
@@ -21369,19 +21376,5 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/97476/000156459018026405/txn-10q_20180930.htm",
     "date": "2018-11-02"
-  },
-  {
-    "title": "10-Q - MCD (McDonald's Corp)",
-    "ticker": "MCD",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/63908/000006390818000064/mcd-9302018x10q.htm",
-    "date": "2018-11-01"
-  },
-  {
-    "title": "10-Q - O (Realty Income Corporation)",
-    "ticker": "O",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672818000108/o-20180930.htm",
-    "date": "2018-11-01"
   }
 ]
