@@ -1,5 +1,19 @@
 [
   {
+    "title": "10-Q - GS (Goldman Sachs Group, Inc.)",
+    "ticker": "GS",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/886982/000088698226000532/gs-20260930.htm",
+    "date": "2026-11-02"
+  },
+  {
+    "title": "10-Q - PGR (Progressive Corp)",
+    "ticker": "PGR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/80661/000008066126000379/pgr-20260930.htm",
+    "date": "2026-11-02"
+  },
+  {
     "title": "10-Q - AMZN (Amazon.com, Inc.)",
     "ticker": "AMZN",
     "form": "10-Q",
