@@ -21341,40 +21341,5 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/797468/000079746818000017/oxyform10q93018.htm",
     "date": "2018-11-05"
-  },
-  {
-    "title": "10-Q - CME (CME Group Inc.)",
-    "ticker": "CME",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1156375/000115637518000128/cme-201893010q.htm",
-    "date": "2018-11-02"
-  },
-  {
-    "title": "10-Q - KHC (Kraft Heinz Company)",
-    "ticker": "KHC",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1637459/000163745918000124/form10-qq32018.htm",
-    "date": "2018-11-02"
-  },
-  {
-    "title": "10-Q - NYT (New York Times CO)",
-    "ticker": "NYT",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/71691/000007169118000017/nyt9301810-qdocument.htm",
-    "date": "2018-11-02"
-  },
-  {
-    "title": "10-Q - TSLA (Tesla, Inc.)",
-    "ticker": "TSLA",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1318605/000156459018026353/tsla-10q_20180930.htm",
-    "date": "2018-11-02"
-  },
-  {
-    "title": "10-Q - TXN (Texas Instruments Inc.)",
-    "ticker": "TXN",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/97476/000156459018026405/txn-10q_20180930.htm",
-    "date": "2018-11-02"
   }
 ]
