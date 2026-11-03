@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - O (Realty Income Corporation)",
+    "ticker": "O",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672826000059/o-20260930.htm",
+    "date": "2026-11-03"
+  },
+  {
     "title": "10-Q - GS (Goldman Sachs Group, Inc.)",
     "ticker": "GS",
     "form": "10-Q",
