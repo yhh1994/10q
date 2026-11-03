@@ -1,9 +1,37 @@
 [
   {
+    "title": "10-K - AAPL (Apple Inc.)",
+    "ticker": "AAPL",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/aapl-20260926.htm",
+    "date": "2026-11-03"
+  },
+  {
+    "title": "10-Q - ABBV (AbbVie Inc.)",
+    "ticker": "ABBV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000037/abbv-20260930.htm",
+    "date": "2026-11-03"
+  },
+  {
     "title": "10-Q - O (Realty Income Corporation)",
     "ticker": "O",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672826000059/o-20260930.htm",
+    "date": "2026-11-03"
+  },
+  {
+    "title": "10-Q - PFE (Pfizer Inc.)",
+    "ticker": "PFE",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/pfe-20260927.htm",
+    "date": "2026-11-03"
+  },
+  {
+    "title": "10-Q - VITL (Vital Farms, Inc.)",
+    "ticker": "VITL",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1579733/000119312526444385/vitl-20260927.htm",
     "date": "2026-11-03"
   },
   {
@@ -3234,13 +3262,6 @@
     "date": "2025-10-31"
   },
   {
-    "title": "10-Q - BAC (Bank of America Corp)",
-    "ticker": "BAC",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/70858/000007085825000405/bac-20250930.htm",
-    "date": "2025-10-31"
-  },
-  {
     "title": "10-Q - BK (Bank of New York Mellon Corp)",
     "ticker": "BK",
     "form": "10-Q",
@@ -3252,13 +3273,6 @@
     "ticker": "CL",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/21665/000002166525000053/cl-20250930.htm",
-    "date": "2025-10-31"
-  },
-  {
-    "title": "10-Q - GS (Goldman Sachs Group, Inc.)",
-    "ticker": "GS",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/886982/000088698225001411/gs-20250930.htm",
     "date": "2025-10-31"
   },
   {
@@ -3280,13 +3294,6 @@
     "ticker": "TMO",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/97745/000009774525000159/tmo-20250927.htm",
-    "date": "2025-10-31"
-  },
-  {
-    "title": "10-Q - WFC (Wells Fargo & Co)",
-    "ticker": "WFC",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/72971/000007297125000253/wfc-20250930.htm",
     "date": "2025-10-31"
   },
   {
