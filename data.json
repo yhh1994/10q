@@ -1,5 +1,19 @@
 [
   {
+    "title": "10-Q - ABT (Abbott Laboratories)",
+    "ticker": "ABT",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1800/000162828026070154/abt-20260930.htm",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "10-Q - AIG (American International Group, Inc.)",
+    "ticker": "AIG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/5272/000000527226000104/aig-20260930.htm",
+    "date": "2026-11-04"
+  },
+  {
     "title": "10-Q - AMD (Advanced Micro Devices, Inc.)",
     "ticker": "AMD",
     "form": "10-Q",
@@ -39,6 +53,34 @@
     "ticker": "FISV",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000042/fisv-20260930.htm",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "10-Q - KHC (Kraft Heinz Company)",
+    "ticker": "KHC",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000081/khc-20260926.htm",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "10-Q - MRK (Merck & Co., Inc.)",
+    "ticker": "MRK",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/310158/000031015826000248/mrk-20260930.htm",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "10-Q - NYT (New York Times CO)",
+    "ticker": "NYT",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/71691/000007169126000041/nyt-20260930.htm",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "10-K - QCOM (QUALCOMM Inc.)",
+    "ticker": "QCOM",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/804328/000080432826000128/qcom-20260927.htm",
     "date": "2026-11-04"
   },
   {
