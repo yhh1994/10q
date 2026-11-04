@@ -1,5 +1,47 @@
 [
   {
+    "title": "10-Q - AMD (Advanced Micro Devices, Inc.)",
+    "ticker": "AMD",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/2488/000000248826000191/amd-20260926.htm",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "10-Q - AMGN (Amgen Inc.)",
+    "ticker": "AMGN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/318154/000031815426000155/amgn-20260930.htm",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "10-Q - CAT (Caterpillar Inc.)",
+    "ticker": "CAT",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/18230/000001823026000057/cat-20260930.htm",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "10-Q - CVS (CVS Health Corp)",
+    "ticker": "CVS",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/64803/000006480326000108/cvs-20260930.htm",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "10-Q - DUOL (Duolingo, Inc.)",
+    "ticker": "DUOL",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1562088/000162828026069692/duol-20260930.htm",
+    "date": "2026-11-04"
+  },
+  {
+    "title": "10-Q - FISV (Fiserv, Inc.)",
+    "ticker": "FISV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/798354/000079835426000042/fisv-20260930.htm",
+    "date": "2026-11-04"
+  },
+  {
     "title": "10-K - AAPL (Apple Inc.)",
     "ticker": "AAPL",
     "form": "10-K",
