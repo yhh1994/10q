@@ -14,6 +14,20 @@
     "date": "2026-11-03"
   },
   {
+    "title": "10-Q - CE (Celanese Corporation)",
+    "ticker": "CE",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1306830/000130683026000133/ce-20260930.htm",
+    "date": "2026-11-03"
+  },
+  {
+    "title": "10-Q - JPM (JPMorgan Chase & Co)",
+    "ticker": "JPM",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/19617/000162828026069523/jpm-20260930.htm",
+    "date": "2026-11-03"
+  },
+  {
     "title": "10-Q - O (Realty Income Corporation)",
     "ticker": "O",
     "form": "10-Q",
@@ -25,6 +39,13 @@
     "ticker": "PFE",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/78003/000007800326000127/pfe-20260927.htm",
+    "date": "2026-11-03"
+  },
+  {
+    "title": "10-Q - UNH (UnitedHealth Group Inc.)",
+    "ticker": "UNH",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/731766/000073176626000266/unh-20260930.htm",
     "date": "2026-11-03"
   },
   {
@@ -21341,33 +21362,5 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/310158/000031015818000039/mrk0930201810q.htm",
     "date": "2018-11-06"
-  },
-  {
-    "title": "10-K - AAPL (Apple Inc.)",
-    "ticker": "AAPL",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019318000145/a10-k20189292018.htm",
-    "date": "2018-11-05"
-  },
-  {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459018026804/hst-10q_20180930.htm",
-    "date": "2018-11-05"
-  },
-  {
-    "title": "10-Q - BRK-B (Berkshire Hathaway Inc.)",
-    "ticker": "BRK-B",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312518317734/d636103d10q.htm",
-    "date": "2018-11-05"
-  },
-  {
-    "title": "10-Q - OXY (Occidental Petroleum Corporation)",
-    "ticker": "OXY",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/797468/000079746818000017/oxyform10q93018.htm",
-    "date": "2018-11-05"
   }
 ]
