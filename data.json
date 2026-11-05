@@ -84,6 +84,13 @@
     "date": "2026-11-04"
   },
   {
+    "title": "10-Q - UPS (United Parcel Service, Inc.)",
+    "ticker": "UPS",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1090727/000162828026070246/ups-20260930.htm",
+    "date": "2026-11-04"
+  },
+  {
     "title": "10-K - AAPL (Apple Inc.)",
     "ticker": "AAPL",
     "form": "10-K",
@@ -21418,26 +21425,5 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492218000175/wrl-20180930x10q.htm",
     "date": "2018-11-07"
-  },
-  {
-    "title": "10-Q - CVS (CVS Health Corp)",
-    "ticker": "CVS",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/64803/000155837018008642/cvs-20180930x10q.htm",
-    "date": "2018-11-06"
-  },
-  {
-    "title": "10-Q - GILD (Gilead Sciences, Inc.)",
-    "ticker": "GILD",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/882095/000088209518000029/q318form10-q.htm",
-    "date": "2018-11-06"
-  },
-  {
-    "title": "10-Q - MRK (Merck & Co., Inc.)",
-    "ticker": "MRK",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/310158/000031015818000039/mrk0930201810q.htm",
-    "date": "2018-11-06"
   }
 ]
