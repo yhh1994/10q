@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - C (Citigroup Inc.)",
+    "ticker": "C",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/831001/000083100126000056/c-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
     "title": "10-Q - CELH (Celsius Holdings, Inc.)",
     "ticker": "CELH",
     "form": "10-Q",
@@ -28,10 +35,59 @@
     "date": "2026-11-05"
   },
   {
+    "title": "10-Q - EOG (EOG Resources, Inc.)",
+    "ticker": "EOG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/821189/000082118926000227/eog-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "10-Q - MS (Morgan Stanley)",
+    "ticker": "MS",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/895421/000089542126000293/ms-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "10-Q - OSCR (Oscar Health, Inc.)",
+    "ticker": "OSCR",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865126000086/oscr-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
     "title": "10-Q - SO (Southern Co)",
     "ticker": "SO",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/92122/000009212226000069/so-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "10-Q - SOFI (SoFi Technologies, Inc.)",
+    "ticker": "SOFI",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1818874/000181887426000070/sofi-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "10-Q - SOLV (Solventum Corp)",
+    "ticker": "SOLV",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1964738/000196473826000056/solv-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "10-K - V (Visa Inc.)",
+    "ticker": "V",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1403161/000140316126000134/v-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "10-Q - WYNN (Wynn Resorts, Limited)",
+    "ticker": "WYNN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492226000079/wynn-20260930.htm",
     "date": "2026-11-05"
   },
   {
