@@ -1,5 +1,40 @@
 [
   {
+    "title": "10-Q - CELH (Celsius Holdings, Inc.)",
+    "ticker": "CELH",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1341766/000134176626000062/celh-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "10-Q - CI (The Cigna Group)",
+    "ticker": "CI",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1739940/000173994026000071/ci-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "10-Q - COP (ConocoPhillips)",
+    "ticker": "COP",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1163165/000116316526000045/cop-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "10-Q - CVX (Chevron Corp)",
+    "ticker": "CVX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/93410/000009341026000200/cvx-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
+    "title": "10-Q - SO (Southern Co)",
+    "ticker": "SO",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/92122/000009212226000069/so-20260930.htm",
+    "date": "2026-11-05"
+  },
+  {
     "title": "10-Q - ABT (Abbott Laboratories)",
     "ticker": "ABT",
     "form": "10-Q",
