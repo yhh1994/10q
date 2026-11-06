@@ -1,12 +1,5 @@
 [
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075026000156/hst-20260930.htm",
-    "date": "2026-11-06"
-  },
-  {
     "title": "10-Q - DVN (Devon Energy Corp)",
     "ticker": "DVN",
     "form": "10-Q",
@@ -25,6 +18,13 @@
     "ticker": "MET",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1099219/000109921926000062/met-20260930.htm",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "10-Q - SCHW (Charles Schwab Corp)",
+    "ticker": "SCHW",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/316709/000031670926000038/schw-20260930.htm",
     "date": "2026-11-06"
   },
   {
@@ -221,6 +221,13 @@
     "ticker": "ABBV",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1551152/000155115226000037/abbv-20260930.htm",
+    "date": "2026-11-03"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000045/bkng-20260930.htm",
     "date": "2026-11-03"
   },
   {
@@ -784,13 +791,6 @@
     "date": "2026-08-07"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075026000126/hst-20260630.htm",
-    "date": "2026-08-07"
-  },
-  {
     "title": "10-Q - FISV (Fiserv, Inc.)",
     "ticker": "FISV",
     "form": "10-Q",
@@ -1006,6 +1006,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1090727/000162828026053249/ups-20260630.htm",
     "date": "2026-08-05"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000037/bkng-20260630.htm",
+    "date": "2026-08-04"
   },
   {
     "title": "10-Q - EOG (EOG Resources, Inc.)",
@@ -1589,13 +1596,6 @@
     "date": "2026-05-08"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075026000080/hst-20260331.htm",
-    "date": "2026-05-08"
-  },
-  {
     "title": "10-Q - SCHW (Charles Schwab Corp)",
     "ticker": "SCHW",
     "form": "10-Q",
@@ -2037,6 +2037,13 @@
     "date": "2026-04-29"
   },
   {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000025/bkng-20260331.htm",
+    "date": "2026-04-28"
+  },
+  {
     "title": "10-Q - CB (Chubb Limited)",
     "ticker": "CB",
     "form": "10-Q",
@@ -2464,13 +2471,6 @@
     "date": "2026-02-25"
   },
   {
-    "title": "10-K - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075026000054/hst-20251231.htm",
-    "date": "2026-02-25"
-  },
-  {
     "title": "10-K - GS (Goldman Sachs Group, Inc.)",
     "ticker": "GS",
     "form": "10-K",
@@ -2651,6 +2651,13 @@
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/92122/000009212226000006/so-20251231.htm",
     "date": "2026-02-19"
+  },
+  {
+    "title": "10-K - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553126000009/bkng-20251231.htm",
+    "date": "2026-02-18"
   },
   {
     "title": "10-K - DVN (Devon Energy Corp)",
@@ -3220,13 +3227,6 @@
     "date": "2025-11-10"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075025000168/hst-20250930.htm",
-    "date": "2025-11-07"
-  },
-  {
     "title": "10-Q - CE (Celanese Corporation)",
     "ticker": "CE",
     "form": "10-Q",
@@ -3645,6 +3645,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/732712/000073271225000116/vz-20250930.htm",
     "date": "2025-10-29"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000051/bkng-20250930.htm",
+    "date": "2025-10-28"
   },
   {
     "title": "10-Q - KRC (Kilroy Realty Corporation)",
@@ -4242,13 +4249,6 @@
     "date": "2025-08-01"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075025000139/hst-20250630.htm",
-    "date": "2025-08-01"
-  },
-  {
     "title": "10-Q - CL (Colgate-Palmolive Co)",
     "ticker": "CL",
     "form": "10-Q",
@@ -4386,6 +4386,13 @@
     "ticker": "BA",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/12927/000001292725000062/ba-20250630.htm",
+    "date": "2025-07-29"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000036/bkng-20250630.htm",
     "date": "2025-07-29"
   },
   {
@@ -4977,13 +4984,6 @@
     "date": "2025-05-02"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075025000097/hst-20250331.htm",
-    "date": "2025-05-02"
-  },
-  {
     "title": "10-Q - CI (The Cigna Group)",
     "ticker": "CI",
     "form": "10-Q",
@@ -5115,6 +5115,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1403161/000140316125000037/v-20250331.htm",
     "date": "2025-04-30"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000024/bkng-20250331.htm",
+    "date": "2025-04-29"
   },
   {
     "title": "10-Q - HON (Honeywell International Inc.)",
@@ -5579,13 +5586,6 @@
     "date": "2025-02-27"
   },
   {
-    "title": "10-K - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075025000071/hst-20241231.htm",
-    "date": "2025-02-26"
-  },
-  {
     "title": "10-K - MO (Altria Group, Inc.)",
     "ticker": "MO",
     "form": "10-K",
@@ -5702,6 +5702,13 @@
     "ticker": "AMAT",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/6951/000000695125000011/amat-20250126.htm",
+    "date": "2025-02-20"
+  },
+  {
+    "title": "10-K - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553125000010/bkng-20241231.htm",
     "date": "2025-02-20"
   },
   {
@@ -6321,13 +6328,6 @@
     "date": "2024-11-12"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075024000184/hst-20240930.htm",
-    "date": "2024-11-08"
-  },
-  {
     "title": "10-Q - CME (CME Group Inc.)",
     "ticker": "CME",
     "form": "10-Q",
@@ -6647,6 +6647,13 @@
     "ticker": "AMD",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/2488/000000248824000163/amd-20240928.htm",
+    "date": "2024-10-30"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000048/bkng-20240930.htm",
     "date": "2024-10-30"
   },
   {
@@ -7294,13 +7301,6 @@
     "date": "2024-08-02"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075024000167/hst-20240630.htm",
-    "date": "2024-08-02"
-  },
-  {
     "title": "10-Q - CE (Celanese Corporation)",
     "ticker": "CE",
     "form": "10-Q",
@@ -7326,6 +7326,13 @@
     "ticker": "AIG",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/5272/000000527224000079/aig-20240630.htm",
+    "date": "2024-08-01"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000041/bkng-20240630.htm",
     "date": "2024-08-01"
   },
   {
@@ -7994,13 +8001,6 @@
     "date": "2024-05-03"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075024000128/hst-20240331.htm",
-    "date": "2024-05-03"
-  },
-  {
     "title": "10-Q - KRC (Kilroy Realty Corporation)",
     "ticker": "KRC",
     "form": "10-Q",
@@ -8040,6 +8040,13 @@
     "ticker": "AIG",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/5272/000000527224000051/aig-20240331.htm",
+    "date": "2024-05-02"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000027/bkng-20240331.htm",
     "date": "2024-05-02"
   },
   {
@@ -8568,13 +8575,6 @@
     "date": "2024-02-28"
   },
   {
-    "title": "10-K - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075024000081/hst-20231231.htm",
-    "date": "2024-02-28"
-  },
-  {
     "title": "10-K - CME (CME Group Inc.)",
     "ticker": "CME",
     "form": "10-K",
@@ -8720,6 +8720,13 @@
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492224000046/wynn-20231231.htm",
     "date": "2024-02-23"
+  },
+  {
+    "title": "10-K - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553124000014/bkng-20231231.htm",
+    "date": "2024-02-22"
   },
   {
     "title": "10-K - EOG (EOG Resources, Inc.)",
@@ -9450,13 +9457,6 @@
     "date": "2023-11-06"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075023000133/hst-20230930.htm",
-    "date": "2023-11-06"
-  },
-  {
     "title": "10-Q - BRK-B (Berkshire Hathaway Inc.)",
     "ticker": "BRK-B",
     "form": "10-Q",
@@ -9517,6 +9517,13 @@
     "ticker": "AIG",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/5272/000000527223000045/aig-20230930.htm",
+    "date": "2023-11-02"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553123000061/bkng-20230930.htm",
     "date": "2023-11-02"
   },
   {
@@ -10199,13 +10206,6 @@
     "date": "2023-08-04"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000095017023038490/hst-20230630.htm",
-    "date": "2023-08-04"
-  },
-  {
     "title": "10-Q - GILD (Gilead Sciences, Inc.)",
     "ticker": "GILD",
     "form": "10-Q",
@@ -10245,6 +10245,13 @@
     "ticker": "ABT",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1800/000162828023027203/abt-20230630.htm",
+    "date": "2023-08-03"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553123000047/bkng-20230630.htm",
     "date": "2023-08-03"
   },
   {
@@ -10899,13 +10906,6 @@
     "date": "2023-05-05"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000095017023018229/hst-20230331.htm",
-    "date": "2023-05-05"
-  },
-  {
     "title": "10-Q - CI (The Cigna Group)",
     "ticker": "CI",
     "form": "10-Q",
@@ -10931,6 +10931,13 @@
     "ticker": "ABT",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1800/000162828023015699/abt-20230331.htm",
+    "date": "2023-05-04"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553123000031/bkng-20230331.htm",
     "date": "2023-05-04"
   },
   {
@@ -11592,6 +11599,13 @@
     "date": "2023-02-23"
   },
   {
+    "title": "10-K - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553123000016/bkng-20221231.htm",
+    "date": "2023-02-23"
+  },
+  {
     "title": "10-K - CI (The Cigna Group)",
     "ticker": "CI",
     "form": "10-K",
@@ -11653,13 +11667,6 @@
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/97745/000009774523000008/tmo-20221231.htm",
     "date": "2023-02-23"
-  },
-  {
-    "title": "10-K - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000095017023003778/hst-20221231.htm",
-    "date": "2023-02-22"
   },
   {
     "title": "10-K - DHR (Danaher Corp)",
@@ -12285,13 +12292,6 @@
     "date": "2022-11-04"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000095017022022127/hst-20220930.htm",
-    "date": "2022-11-04"
-  },
-  {
     "title": "10-Q - CE (Celanese Corporation)",
     "ticker": "CE",
     "form": "10-Q",
@@ -12394,6 +12394,13 @@
     "ticker": "AMD",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000170/amd-20220924.htm",
+    "date": "2022-11-02"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553122000043/bkng-20220930.htm",
     "date": "2022-11-02"
   },
   {
@@ -12957,13 +12964,6 @@
     "date": "2022-08-05"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000095017022015012/hst-20220630.htm",
-    "date": "2022-08-05"
-  },
-  {
     "title": "10-Q - DUOL (Duolingo, Inc.)",
     "ticker": "DUOL",
     "form": "10-Q",
@@ -13066,6 +13066,13 @@
     "ticker": "AMD",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000123/amd-20220625.htm",
+    "date": "2022-08-03"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553122000032/bkng-20220630.htm",
     "date": "2022-08-03"
   },
   {
@@ -13615,13 +13622,6 @@
     "date": "2022-05-06"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000095017022008085/hst-20220331.htm",
-    "date": "2022-05-06"
-  },
-  {
     "title": "10-Q - CI (The Cigna Group)",
     "ticker": "CI",
     "form": "10-Q",
@@ -13703,6 +13703,13 @@
     "ticker": "AMD",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/2488/000000248822000078/amd-20220326.htm",
+    "date": "2022-05-04"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553122000022/bkng-20220331.htm",
     "date": "2022-05-04"
   },
   {
@@ -14266,13 +14273,6 @@
     "date": "2022-02-24"
   },
   {
-    "title": "10-K - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000095017022001965/hst-20211231.htm",
-    "date": "2022-02-24"
-  },
-  {
     "title": "10-K - CB (Chubb Limited)",
     "ticker": "CB",
     "form": "10-K",
@@ -14348,6 +14348,13 @@
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/97745/000009774522000011/tmo-20211231.htm",
     "date": "2022-02-24"
+  },
+  {
+    "title": "10-K - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553122000008/bkng-20211231.htm",
+    "date": "2022-02-23"
   },
   {
     "title": "10-K - DHR (Danaher Corp)",
@@ -14980,13 +14987,6 @@
     "date": "2021-11-05"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000095017021003158/hst-20210930.htm",
-    "date": "2021-11-05"
-  },
-  {
     "title": "10-Q - IBM (International Business Machines Corp)",
     "ticker": "IBM",
     "form": "10-Q",
@@ -15068,6 +15068,13 @@
     "ticker": "AMGN",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/318154/000031815421000045/amgn-20210930.htm",
+    "date": "2021-11-03"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553121000053/bkng-20210930.htm",
     "date": "2021-11-03"
   },
   {
@@ -15624,13 +15631,6 @@
     "date": "2021-08-06"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459021041518/hst-10q_20210630.htm",
-    "date": "2021-08-05"
-  },
-  {
     "title": "10-Q - CI (The Cigna Group)",
     "ticker": "CI",
     "form": "10-Q",
@@ -15677,6 +15677,13 @@
     "ticker": "AMGN",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/318154/000031815421000034/amgn-20210630.htm",
+    "date": "2021-08-04"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553121000044/bkng-20210630.htm",
     "date": "2021-08-04"
   },
   {
@@ -16313,7 +16320,7 @@
     "title": "10-Q - BKNG (Booking Holdings Inc.)",
     "ticker": "BKNG",
     "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459021024184/hst-10q_20210331.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553121000030/bkng-20210331.htm",
     "date": "2021-05-05"
   },
   {
@@ -16856,13 +16863,6 @@
     "date": "2021-02-25"
   },
   {
-    "title": "10-K - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459021008676/hst-10k_20201231.htm",
-    "date": "2021-02-25"
-  },
-  {
     "title": "10-K - CB (Chubb Limited)",
     "ticker": "CB",
     "form": "10-K",
@@ -16945,6 +16945,13 @@
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/97745/000009774521000011/tmo-20201231.htm",
     "date": "2021-02-25"
+  },
+  {
+    "title": "10-K - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553121000019/bkng-20201231.htm",
+    "date": "2021-02-24"
   },
   {
     "title": "10-K - XOM (Exxon Mobil Corp)",
@@ -17507,18 +17514,18 @@
     "date": "2020-11-09"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459020051753/hst-10q_20200930.htm",
-    "date": "2020-11-06"
-  },
-  {
     "title": "10-Q - CVS (CVS Health Corp)",
     "ticker": "CVS",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/64803/000006480320000041/cvs-20200930.htm",
     "date": "2020-11-06"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553120000073/bkng-20200930.htm",
+    "date": "2020-11-05"
   },
   {
     "title": "10-Q - BMY (Bristol-Myers Squibb Co)",
@@ -18032,6 +18039,13 @@
     "date": "2020-08-10"
   },
   {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553120000050/bkng-20200630.htm",
+    "date": "2020-08-06"
+  },
+  {
     "title": "10-Q - BMY (Bristol-Myers Squibb Co)",
     "ticker": "BMY",
     "form": "10-Q",
@@ -18190,13 +18204,6 @@
     "ticker": "AAPL",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019320000062/aapl-20200627.htm",
-    "date": "2020-07-31"
-  },
-  {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459020035145/hst-10q_20200630.htm",
     "date": "2020-07-31"
   },
   {
@@ -18571,13 +18578,6 @@
     "date": "2020-05-08"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459020023505/hst-10q_20200331.htm",
-    "date": "2020-05-08"
-  },
-  {
     "title": "10-Q - FISV (Fiserv, Inc.)",
     "ticker": "FISV",
     "form": "10-Q",
@@ -18597,6 +18597,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492220000085/wynn-20200331.htm",
     "date": "2020-05-08"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553120000027/bkng3312010q.htm",
+    "date": "2020-05-07"
   },
   {
     "title": "10-Q - BMY (Bristol-Myers Squibb Co)",
@@ -19159,6 +19166,13 @@
     "date": "2020-02-27"
   },
   {
+    "title": "10-K - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553120000011/bkng1231201910k.htm",
+    "date": "2020-02-26"
+  },
+  {
     "title": "10-K - MCD (McDonald's Corp)",
     "ticker": "MCD",
     "form": "10-K",
@@ -19185,13 +19199,6 @@
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/34088/000003408820000016/xom10k2019.htm",
     "date": "2020-02-26"
-  },
-  {
-    "title": "10-K - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459020006404/hst-10k_20191231.htm",
-    "date": "2020-02-25"
   },
   {
     "title": "10-K - GILD (Gilead Sciences, Inc.)",
@@ -19645,7 +19652,7 @@
     "title": "10-Q - BKNG (Booking Holdings Inc.)",
     "ticker": "BKNG",
     "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459019041532/hst-10q_20190930.htm",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553119000064/bkng9301910q.htm",
     "date": "2019-11-07"
   },
   {
@@ -20125,13 +20132,6 @@
     "date": "2019-08-13"
   },
   {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459019030602/hst-10q_20190630.htm",
-    "date": "2019-08-08"
-  },
-  {
     "title": "10-Q - CELH (Celsius Holdings, Inc.)",
     "ticker": "CELH",
     "form": "10-Q",
@@ -20144,6 +20144,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492219000080/wrl-q21910q.htm",
     "date": "2019-08-08"
+  },
+  {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553119000043/bkng6301910q.htm",
+    "date": "2019-08-07"
   },
   {
     "title": "10-Q - CME (CME Group Inc.)",
@@ -20601,6 +20608,13 @@
     "date": "2019-05-23"
   },
   {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553119000021/bkng3311910q.htm",
+    "date": "2019-05-09"
+  },
+  {
     "title": "10-Q - CELH (Celsius Holdings, Inc.)",
     "ticker": "CELH",
     "form": "10-Q",
@@ -20689,13 +20703,6 @@
     "ticker": "ABBV",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1551152/000155115219000016/abbv-20190331x10q.htm",
-    "date": "2019-05-03"
-  },
-  {
-    "title": "10-Q - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459019015608/hst-10q_20190331.htm",
     "date": "2019-05-03"
   },
   {
@@ -21112,18 +21119,18 @@
     "date": "2019-02-27"
   },
   {
+    "title": "10-K - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/1075531/000107553119000009/bkng1231201810k.htm",
+    "date": "2019-02-27"
+  },
+  {
     "title": "10-K - MRK (Merck & Co., Inc.)",
     "ticker": "MRK",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/310158/000031015819000014/mrk1231201810k.htm",
     "date": "2019-02-27"
-  },
-  {
-    "title": "10-K - BKNG (Booking Holdings Inc.)",
-    "ticker": "BKNG",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000156459019004191/hst-10k_20181231.htm",
-    "date": "2019-02-26"
   },
   {
     "title": "10-K - GILD (Gilead Sciences, Inc.)",
