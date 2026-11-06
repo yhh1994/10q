@@ -21460,33 +21460,5 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1341766/000161577418012306/s113852_10q.htm",
     "date": "2018-11-08"
-  },
-  {
-    "title": "10-Q - ABBV (AbbVie Inc.)",
-    "ticker": "ABBV",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1551152/000155115218000042/abbv-20180930x10q.htm",
-    "date": "2018-11-07"
-  },
-  {
-    "title": "10-Q - DVN (Devon Energy Corp)",
-    "ticker": "DVN",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1090012/000156459018027813/dvn-10q_20180930.htm",
-    "date": "2018-11-07"
-  },
-  {
-    "title": "10-K - QCOM (QUALCOMM Inc.)",
-    "ticker": "QCOM",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/804328/000172894918000095/qcom10-k2018.htm",
-    "date": "2018-11-07"
-  },
-  {
-    "title": "10-Q - WYNN (Wynn Resorts, Limited)",
-    "ticker": "WYNN",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1174922/000117492218000175/wrl-20180930x10q.htm",
-    "date": "2018-11-07"
   }
 ]
