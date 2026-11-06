@@ -1,5 +1,26 @@
 [
   {
+    "title": "10-Q - BKNG (Booking Holdings Inc.)",
+    "ticker": "BKNG",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1070750/000107075026000156/hst-20260930.htm",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "10-Q - DVN (Devon Energy Corp)",
+    "ticker": "DVN",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1090012/000119312526451216/dvn-20260930.htm",
+    "date": "2026-11-06"
+  },
+  {
+    "title": "10-Q - MCD (McDonald's Corp)",
+    "ticker": "MCD",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/63908/000006390826000083/mcd-20260930.htm",
+    "date": "2026-11-06"
+  },
+  {
     "title": "10-Q - MET (MetLife, Inc.)",
     "ticker": "MET",
     "form": "10-Q",
