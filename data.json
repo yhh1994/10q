@@ -1,5 +1,19 @@
 [
   {
+    "title": "10-Q - BAM (Brookfield Asset Management Ltd.)",
+    "ticker": "BAM",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1937926/000162828026071827/bam-20260930.htm",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "10-Q - BRK-B (Berkshire Hathaway Inc.)",
+    "ticker": "BRK-B",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1067983/000119312526452412/brka-20260930.htm",
+    "date": "2026-11-09"
+  },
+  {
     "title": "10-Q - DVN (Devon Energy Corp)",
     "ticker": "DVN",
     "form": "10-Q",
