@@ -14,6 +14,20 @@
     "date": "2026-11-09"
   },
   {
+    "title": "10-Q - HIMS (Hims & Hers Health, Inc.)",
+    "ticker": "HIMS",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/1773751/000177375126000246/hims-20260930.htm",
+    "date": "2026-11-09"
+  },
+  {
+    "title": "10-Q - OXY (Occidental Petroleum Corporation)",
+    "ticker": "OXY",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/797468/000162828026072198/oxy-20260930.htm",
+    "date": "2026-11-09"
+  },
+  {
     "title": "10-Q - DVN (Devon Energy Corp)",
     "ticker": "DVN",
     "form": "10-Q",
