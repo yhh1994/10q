@@ -3262,13 +3262,6 @@
     "date": "2025-11-07"
   },
   {
-    "title": "10-Q - C (Citigroup Inc.)",
-    "ticker": "C",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/831001/000083100125000154/c-20250930.htm",
-    "date": "2025-11-06"
-  },
-  {
     "title": "10-Q - COP (ConocoPhillips)",
     "ticker": "COP",
     "form": "10-Q",
@@ -10680,13 +10673,6 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000153/adbe-20230602.htm",
     "date": "2023-06-28"
-  },
-  {
-    "title": "10-Q - ACN (Accenture plc)",
-    "ticker": "ACN",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1467373/000146737323000221/acn-20230531.htm",
-    "date": "2023-06-22"
   },
   {
     "title": "10-K - MDT (Medtronic plc)",
@@ -19485,13 +19471,6 @@
     "ticker": "AMD",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/2488/000000248820000008/amdform10-kfy2019.htm",
-    "date": "2020-02-04"
-  },
-  {
-    "title": "10-Q - DIS (Walt Disney Co)",
-    "ticker": "DIS",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/1744489/000174448920000046/dis-20191228.htm",
     "date": "2020-02-04"
   },
   {
