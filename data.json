@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-K - SBUX (Starbucks Corp)",
+    "ticker": "SBUX",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/829224/000082922426000162/sbux-20260927.htm",
+    "date": "2026-11-12"
+  },
+  {
     "title": "10-Q - BAM (Brookfield Asset Management Ltd.)",
     "ticker": "BAM",
     "form": "10-Q",
