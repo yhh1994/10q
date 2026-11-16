@@ -17052,13 +17052,6 @@
     "date": "2021-02-18"
   },
   {
-    "title": "10-K - SO (Southern Co)",
-    "ticker": "SO",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/92122/000009212221000006/so-20201231.htm",
-    "date": "2021-02-18"
-  },
-  {
     "title": "10-K - CAT (Caterpillar Inc.)",
     "ticker": "CAT",
     "form": "10-K",
@@ -21474,19 +21467,5 @@
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917718000052/spb-20180930x10k.htm",
     "date": "2018-11-23"
-  },
-  {
-    "title": "10-K - SBUX (Starbucks Corp)",
-    "ticker": "SBUX",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/829224/000082922418000052/sbux-9302018x10xk.htm",
-    "date": "2018-11-16"
-  },
-  {
-    "title": "10-K - V (Visa Inc.)",
-    "ticker": "V",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/1403161/000140316118000055/v093018.htm",
-    "date": "2018-11-16"
   }
 ]
