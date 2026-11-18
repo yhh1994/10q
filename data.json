@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-K - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917726000044/spb-20260930.htm",
+    "date": "2026-11-18"
+  },
+  {
     "title": "10-Q - CSCO (Cisco Systems, Inc.)",
     "ticker": "CSCO",
     "form": "10-Q",
