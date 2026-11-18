@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - CSCO (Cisco Systems, Inc.)",
+    "ticker": "CSCO",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/858877/000085887726000185/csco-20261024.htm",
+    "date": "2026-11-17"
+  },
+  {
     "title": "10-K - DIS (Walt Disney Co)",
     "ticker": "DIS",
     "form": "10-K",
