@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - INTU (Intuit Inc.)",
+    "ticker": "INTU",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/896878/000089687826000045/intu-20261031.htm",
+    "date": "2026-11-19"
+  },
+  {
     "title": "10-K - TJX (TJX Companies, Inc.)",
     "ticker": "TJX",
     "form": "10-K",
