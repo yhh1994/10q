@@ -770,6 +770,13 @@
     "date": "2026-08-28"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000048/tjx-20260801.htm",
+    "date": "2026-08-28"
+  },
+  {
     "title": "10-Q - WMT (Walmart Inc.)",
     "ticker": "WMT",
     "form": "10-Q",
@@ -1561,6 +1568,13 @@
     "date": "2026-05-29"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000034/tjx-20260502.htm",
+    "date": "2026-05-29"
+  },
+  {
     "title": "10-Q - WMT (Walmart Inc.)",
     "ticker": "WMT",
     "form": "10-Q",
@@ -2315,6 +2329,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000037/nke-20260228.htm",
     "date": "2026-04-01"
+  },
+  {
+    "title": "10-K - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919826000008/tjx-20260131.htm",
+    "date": "2026-03-31"
   },
   {
     "title": "10-Q - ADBE (Adobe Inc.)",
@@ -3185,6 +3206,13 @@
     "date": "2025-12-03"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000061/tjx-20251101.htm",
+    "date": "2025-12-02"
+  },
+  {
     "title": "10-Q - LOW (Lowe's Companies, Inc.)",
     "ticker": "LOW",
     "form": "10-Q",
@@ -3948,6 +3976,13 @@
     "date": "2025-08-29"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000054/tjx-20250802.htm",
+    "date": "2025-08-29"
+  },
+  {
     "title": "10-Q - WMT (Walmart Inc.)",
     "ticker": "WMT",
     "form": "10-Q",
@@ -4704,6 +4739,13 @@
     "date": "2025-05-30"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000043/tjx-20250503.htm",
+    "date": "2025-05-30"
+  },
+  {
     "title": "10-Q - CRM (Salesforce, Inc.)",
     "ticker": "CRM",
     "form": "10-Q",
@@ -5409,6 +5451,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/320187/000032018725000016/nke-20250228.htm",
     "date": "2025-04-03"
+  },
+  {
+    "title": "10-K - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919825000010/tjx-20250201.htm",
+    "date": "2025-04-02"
   },
   {
     "title": "10-Q - ADBE (Adobe Inc.)",
@@ -6237,6 +6286,13 @@
     "date": "2024-12-04"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000059/tjx-20241102.htm",
+    "date": "2024-12-04"
+  },
+  {
     "title": "10-Q - LOW (Lowe's Companies, Inc.)",
     "ticker": "LOW",
     "form": "10-Q",
@@ -6983,6 +7039,13 @@
     "ticker": "TGT",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/27419/000002741924000152/tgt-20240803.htm",
+    "date": "2024-08-30"
+  },
+  {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000048/tjx-20240803.htm",
     "date": "2024-08-30"
   },
   {
@@ -7749,6 +7812,13 @@
     "date": "2024-05-31"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000035/tjx-20240504.htm",
+    "date": "2024-05-31"
+  },
+  {
     "title": "10-Q - CRM (Salesforce, Inc.)",
     "ticker": "CRM",
     "form": "10-Q",
@@ -8440,6 +8510,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/320187/000032018724000019/nke-20240229.htm",
     "date": "2024-04-04"
+  },
+  {
+    "title": "10-K - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919824000014/tjx-20240203.htm",
+    "date": "2024-04-03"
   },
   {
     "title": "10-Q - LEN (Lennar Corp)",
@@ -9268,6 +9345,13 @@
     "date": "2023-11-29"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919823000060/tjx-20231028.htm",
+    "date": "2023-11-29"
+  },
+  {
     "title": "10-Q - INTU (Intuit Inc.)",
     "ticker": "INTU",
     "form": "10-Q",
@@ -10017,6 +10101,13 @@
     "date": "2023-08-25"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919823000051/tjx-20230729.htm",
+    "date": "2023-08-25"
+  },
+  {
     "title": "10-Q - AMAT (Applied Materials, Inc.)",
     "ticker": "AMAT",
     "form": "10-Q",
@@ -10703,6 +10794,13 @@
     "date": "2023-05-26"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919823000031/tjx-20230429.htm",
+    "date": "2023-05-26"
+  },
+  {
     "title": "10-Q - CSCO (Cisco Systems, Inc.)",
     "ticker": "CSCO",
     "form": "10-Q",
@@ -11330,6 +11428,13 @@
     "ticker": "ADBE",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/796343/000079634323000055/adbe-20230303.htm",
+    "date": "2023-03-29"
+  },
+  {
+    "title": "10-K - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919823000004/tjx-20230128.htm",
     "date": "2023-03-29"
   },
   {
@@ -12082,6 +12187,13 @@
     "date": "2022-11-29"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919822000044/tjx-20221029.htm",
+    "date": "2022-11-29"
+  },
+  {
     "title": "10-Q - LOW (Lowe's Companies, Inc.)",
     "ticker": "LOW",
     "form": "10-Q",
@@ -12775,6 +12887,13 @@
     "date": "2022-08-26"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919822000041/tjx-20220730.htm",
+    "date": "2022-08-26"
+  },
+  {
     "title": "10-Q - AMAT (Applied Materials, Inc.)",
     "ticker": "AMAT",
     "form": "10-Q",
@@ -13426,6 +13545,13 @@
     "date": "2022-05-27"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919822000029/tjx-20220430.htm",
+    "date": "2022-05-27"
+  },
+  {
     "title": "10-Q - AMAT (Applied Materials, Inc.)",
     "ticker": "AMAT",
     "form": "10-Q",
@@ -14039,6 +14165,13 @@
     "ticker": "ADBE",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/796343/000079634322000099/adbe-20220304.htm",
+    "date": "2022-03-30"
+  },
+  {
+    "title": "10-K - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919822000008/tjx-20220129.htm",
     "date": "2022-03-30"
   },
   {
@@ -14742,6 +14875,13 @@
     "date": "2021-12-02"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919821000030/tjx-20211030.htm",
+    "date": "2021-11-30"
+  },
+  {
     "title": "10-K - DIS (Walt Disney Co)",
     "ticker": "DIS",
     "form": "10-K",
@@ -15393,6 +15533,13 @@
     "date": "2021-08-27"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919821000027/tjx-20210731.htm",
+    "date": "2021-08-27"
+  },
+  {
     "title": "10-Q - AMAT (Applied Materials, Inc.)",
     "ticker": "AMAT",
     "form": "10-Q",
@@ -16016,6 +16163,13 @@
     "date": "2021-05-28"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919821000019/tjx-20210501.htm",
+    "date": "2021-05-28"
+  },
+  {
     "title": "10-Q - AMAT (Applied Materials, Inc.)",
     "ticker": "AMAT",
     "form": "10-Q",
@@ -16615,6 +16769,13 @@
     "ticker": "ADBE",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/796343/000079634321000069/adbe-20210305.htm",
+    "date": "2021-03-31"
+  },
+  {
+    "title": "10-K - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919821000006/tjx-20210130.htm",
     "date": "2021-03-31"
   },
   {
@@ -17269,6 +17430,13 @@
     "date": "2020-12-03"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919820000027/tjx-20201031.htm",
+    "date": "2020-12-01"
+  },
+  {
     "title": "10-K - DIS (Walt Disney Co)",
     "ticker": "DIS",
     "form": "10-K",
@@ -17850,6 +18018,13 @@
     "date": "2020-08-28"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919820000019/tjx-20200801.htm",
+    "date": "2020-08-28"
+  },
+  {
     "title": "10-Q - DE (Deere & Co)",
     "ticker": "DE",
     "form": "10-Q",
@@ -18410,6 +18585,13 @@
     "date": "2020-05-21"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919820000007/tjx-20200502.htm",
+    "date": "2020-05-21"
+  },
+  {
     "title": "10-Q - CELH (Celsius Holdings, Inc.)",
     "ticker": "CELH",
     "form": "10-Q",
@@ -18884,6 +19066,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/320187/000032018720000018/nke-229202010q.htm",
     "date": "2020-04-07"
+  },
+  {
+    "title": "10-K - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000010919820000004/tjx-20200201.htm",
+    "date": "2020-03-27"
   },
   {
     "title": "10-Q - ADBE (Adobe Inc.)",
@@ -19446,6 +19635,13 @@
     "date": "2019-12-03"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000162828019014690/tjx-20191102.htm",
+    "date": "2019-12-03"
+  },
+  {
     "title": "10-Q - TGT (Target Corp)",
     "ticker": "TGT",
     "form": "10-Q",
@@ -19919,6 +20115,13 @@
     "ticker": "TGT",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/27419/000002741919000021/tgt-20190803x10xq.htm",
+    "date": "2019-08-30"
+  },
+  {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000162828019011321/tjx-10qx20190803.htm",
     "date": "2019-08-30"
   },
   {
@@ -20405,6 +20608,13 @@
     "date": "2019-05-31"
   },
   {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000162828019007432/tjx-10qx20190504.htm",
+    "date": "2019-05-31"
+  },
+  {
     "title": "10-Q - DE (Deere & Co)",
     "ticker": "DE",
     "form": "10-Q",
@@ -20802,6 +21012,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/320187/000032018719000030/nke-02282019x10q.htm",
     "date": "2019-04-04"
+  },
+  {
+    "title": "10-K - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-K",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000162828019003834/tjx-10kx20190202.htm",
+    "date": "2019-04-03"
   },
   {
     "title": "10-K - LOW (Lowe's Companies, Inc.)",
@@ -21243,6 +21460,13 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/60667/000006066718000203/form10q_11022018.htm",
     "date": "2018-12-06"
+  },
+  {
+    "title": "10-Q - TJX (TJX Companies, Inc.)",
+    "ticker": "TJX",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/109198/000162828018014818/tjx-10qx20181103.htm",
+    "date": "2018-12-04"
   },
   {
     "title": "10-Q - MDT (Medtronic plc)",
