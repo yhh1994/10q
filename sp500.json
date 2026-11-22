@@ -106,7 +106,7 @@
   { "ticker": "SYK", "cik": "0000310764", "name": "Stryker Corp" },
   { "ticker": "T", "cik": "0000732717", "name": "AT&T Inc." },
   { "ticker": "TGT", "cik": "0000027419", "name": "Target Corp" },
-  { "ticker": "TJX", "cik": "872540109", "name": "TJX Companies, Inc." },
+  { "ticker": "TJX", "cik": "0000109198", "name": "TJX Companies, Inc." },
   { "ticker": "TMO", "cik": "0000097745", "name": "Thermo Fisher Scientific Inc." },
   { "ticker": "TMUS", "cik": "0001283699", "name": "T-Mobile US, Inc." },
   { "ticker": "TSLA", "cik": "0001318605", "name": "Tesla, Inc." },
