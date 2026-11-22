@@ -7,13 +7,6 @@
     "date": "2026-11-19"
   },
   {
-    "title": "10-K - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917726000044/spb-20260930.htm",
-    "date": "2026-11-18"
-  },
-  {
     "title": "10-Q - CSCO (Cisco Systems, Inc.)",
     "ticker": "CSCO",
     "form": "10-Q",
@@ -889,13 +882,6 @@
     "date": "2026-08-07"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917726000040/spb-20260628.htm",
-    "date": "2026-08-07"
-  },
-  {
     "title": "10-Q - C (Citigroup Inc.)",
     "ticker": "C",
     "form": "10-Q",
@@ -1726,13 +1712,6 @@
     "ticker": "SOFI",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1818874/000181887426000037/sofi-20260331.htm",
-    "date": "2026-05-07"
-  },
-  {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917726000021/spb-20260329.htm",
     "date": "2026-05-07"
   },
   {
@@ -2975,13 +2954,6 @@
     "date": "2026-02-05"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917726000010/spb-20251228.htm",
-    "date": "2026-02-05"
-  },
-  {
     "title": "10-K - AMD (Advanced Micro Devices, Inc.)",
     "ticker": "AMD",
     "form": "10-K",
@@ -3252,13 +3224,6 @@
     "ticker": "CSCO",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/858877/000085887725000171/csco-20251025.htm",
-    "date": "2025-11-18"
-  },
-  {
-    "title": "10-K - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917725000043/spb-20250930.htm",
     "date": "2025-11-18"
   },
   {
@@ -4144,13 +4109,6 @@
     "date": "2025-08-07"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000162828025038659/spb-20250629.htm",
-    "date": "2025-08-07"
-  },
-  {
     "title": "10-Q - VITL (Vital Farms, Inc.)",
     "ticker": "VITL",
     "form": "10-Q",
@@ -4848,13 +4806,6 @@
     "ticker": "OSCR",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865125000015/oscr-20250331.htm",
-    "date": "2025-05-08"
-  },
-  {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917725000015/spb-20250330.htm",
     "date": "2025-05-08"
   },
   {
@@ -6034,13 +5985,6 @@
     "date": "2025-02-06"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917725000009/spb-20241229.htm",
-    "date": "2025-02-06"
-  },
-  {
     "title": "10-K - AMD (Advanced Micro Devices, Inc.)",
     "ticker": "AMD",
     "form": "10-K",
@@ -6340,13 +6284,6 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/858877/000085887724000030/csco-20241026.htm",
     "date": "2024-11-19"
-  },
-  {
-    "title": "10-K - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917724000047/spb-20240930.htm",
-    "date": "2024-11-15"
   },
   {
     "title": "10-K - DIS (Walt Disney Co)",
@@ -7147,13 +7084,6 @@
     "date": "2024-08-08"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917724000039/spb-20240630.htm",
-    "date": "2024-08-08"
-  },
-  {
     "title": "10-Q - VITL (Vital Farms, Inc.)",
     "ticker": "VITL",
     "form": "10-Q",
@@ -7893,13 +7823,6 @@
     "ticker": "SCHW",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/316709/000031670924000044/schw-20240331.htm",
-    "date": "2024-05-09"
-  },
-  {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917724000022/spb-20240331.htm",
     "date": "2024-05-09"
   },
   {
@@ -9079,13 +9002,6 @@
     "date": "2024-02-08"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917724000013/spb-20231231.htm",
-    "date": "2024-02-08"
-  },
-  {
     "title": "10-K - CVS (CVS Health Corp)",
     "ticker": "CVS",
     "form": "10-K",
@@ -9384,13 +9300,6 @@
     "ticker": "NVDA",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1045810/000104581023000227/nvda-20231029.htm",
-    "date": "2023-11-21"
-  },
-  {
-    "title": "10-K - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917723000054/spb-20230930.htm",
     "date": "2023-11-21"
   },
   {
@@ -10115,13 +10024,6 @@
     "date": "2023-08-24"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917723000039/spb-20230702.htm",
-    "date": "2023-08-11"
-  },
-  {
     "title": "10-Q - DIS (Walt Disney Co)",
     "ticker": "DIS",
     "form": "10-Q",
@@ -10813,13 +10715,6 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/896878/000089687823000020/intu-20230430.htm",
     "date": "2023-05-23"
-  },
-  {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917723000020/spb-20230402.htm",
-    "date": "2023-05-12"
   },
   {
     "title": "10-Q - CE (Celanese Corporation)",
@@ -11949,13 +11844,6 @@
     "date": "2023-02-10"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917723000011/spb-20230101.htm",
-    "date": "2023-02-10"
-  },
-  {
     "title": "10-K - UNP (Union Pacific Corp)",
     "ticker": "UNP",
     "form": "10-K",
@@ -12212,13 +12100,6 @@
     "ticker": "CSCO",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/858877/000085887722000025/csco-20221029.htm",
-    "date": "2022-11-22"
-  },
-  {
-    "title": "10-K - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917722000034/spb-20220930.htm",
     "date": "2022-11-22"
   },
   {
@@ -12912,13 +12793,6 @@
     "ticker": "OSCR",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1568651/000156865122000039/oscr-20220630.htm",
-    "date": "2022-08-12"
-  },
-  {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917722000028/spb-20220703.htm",
     "date": "2022-08-12"
   },
   {
@@ -13668,13 +13542,6 @@
     "ticker": "CI",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1739940/000173994022000012/ci-20220331.htm",
-    "date": "2022-05-06"
-  },
-  {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917722000014/spb-20220403.htm",
     "date": "2022-05-06"
   },
   {
@@ -14707,13 +14574,6 @@
     "date": "2022-02-04"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917722000005/spb-20220102.htm",
-    "date": "2022-02-04"
-  },
-  {
     "title": "10-K - TXN (Texas Instruments Inc.)",
     "ticker": "TXN",
     "form": "10-K",
@@ -14907,13 +14767,6 @@
     "ticker": "CSCO",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/858877/000085887721000018/csco-20211030.htm",
-    "date": "2021-11-23"
-  },
-  {
-    "title": "10-K - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917721000058/spb-20210930.htm",
     "date": "2021-11-23"
   },
   {
@@ -15652,13 +15505,6 @@
     "date": "2021-08-06"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917721000042/spb-20210704.htm",
-    "date": "2021-08-06"
-  },
-  {
     "title": "10-Q - TMO (Thermo Fisher Scientific Inc.)",
     "ticker": "TMO",
     "form": "10-Q",
@@ -16286,13 +16132,6 @@
     "ticker": "CI",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1739940/000173994021000011/ci-20210331.htm",
-    "date": "2021-05-07"
-  },
-  {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917721000024/spb-20210404.htm",
     "date": "2021-05-07"
   },
   {
@@ -17262,13 +17101,6 @@
     "date": "2021-02-05"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917721000009/spb-20210103.htm",
-    "date": "2021-02-05"
-  },
-  {
     "title": "10-K - TXN (Texas Instruments Inc.)",
     "ticker": "TXN",
     "form": "10-K",
@@ -17483,13 +17315,6 @@
     "ticker": "NVDA",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1045810/000104581020000189/nvda-20201025.htm",
-    "date": "2020-11-18"
-  },
-  {
-    "title": "10-K - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917720000058/spb-20200930.htm",
     "date": "2020-11-18"
   },
   {
@@ -18263,13 +18088,6 @@
     "date": "2020-07-31"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917720000035/spb-20200628.htm",
-    "date": "2020-07-31"
-  },
-  {
     "title": "10-Q - TMO (Thermo Fisher Scientific Inc.)",
     "ticker": "TMO",
     "form": "10-Q",
@@ -18785,13 +18603,6 @@
     "ticker": "O",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/726728/000072672820000042/o-03312010qdocument.htm",
-    "date": "2020-05-05"
-  },
-  {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917720000022/spb-20200329x10q.htm",
     "date": "2020-05-05"
   },
   {
@@ -19523,13 +19334,6 @@
     "date": "2020-02-04"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917720000009/spb-20191229x10q.htm",
-    "date": "2020-02-04"
-  },
-  {
     "title": "10-K - BA (Boeing Co)",
     "ticker": "BA",
     "form": "10-K",
@@ -19653,13 +19457,6 @@
     "ticker": "SBUX",
     "form": "10-K",
     "link": "https://www.sec.gov/Archives/edgar/data/829224/000082922419000051/sbux-9292019x10xk.htm",
-    "date": "2019-11-15"
-  },
-  {
-    "title": "10-K - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917719000050/spb-20190930x10k.htm",
     "date": "2019-11-15"
   },
   {
@@ -20209,13 +20006,6 @@
     "date": "2019-08-07"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917719000038/spb-20190630x10q.htm",
-    "date": "2019-08-07"
-  },
-  {
     "title": "10-Q - GILD (Gilead Sciences, Inc.)",
     "ticker": "GILD",
     "form": "10-Q",
@@ -20682,13 +20472,6 @@
     "ticker": "NYT",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/71691/000007169119000010/nyt3311910-qdocument.htm",
-    "date": "2019-05-08"
-  },
-  {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917719000028/spb-20190331x10q.htm",
     "date": "2019-05-08"
   },
   {
@@ -21357,13 +21140,6 @@
     "date": "2019-02-07"
   },
   {
-    "title": "10-Q - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917719000015/spb-20181230x10q.htm",
-    "date": "2019-02-07"
-  },
-  {
     "title": "10-K - CSX (CSX Corp)",
     "ticker": "CSX",
     "form": "10-K",
@@ -21481,12 +21257,5 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/27419/000002741918000036/tgt-20181103x10xq.htm",
     "date": "2018-11-27"
-  },
-  {
-    "title": "10-K - TJX (TJX Companies, Inc.)",
-    "ticker": "TJX",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/109177/000010917718000052/spb-20180930x10k.htm",
-    "date": "2018-11-23"
   }
 ]
