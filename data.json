@@ -9072,13 +9072,6 @@
     "date": "2024-02-09"
   },
   {
-    "title": "10-K - VZ (Verizon Communications Inc.)",
-    "ticker": "VZ",
-    "form": "10-K",
-    "link": "https://www.sec.gov/Archives/edgar/data/732712/000073271224000010/vz-20231231.htm",
-    "date": "2024-02-09"
-  },
-  {
     "title": "10-K - PM (Philip Morris International Inc.)",
     "ticker": "PM",
     "form": "10-K",
@@ -20381,13 +20374,6 @@
     "ticker": "SBUX",
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/829224/000082922419000036/sbux-6302019x10xq.htm",
-    "date": "2019-07-30"
-  },
-  {
-    "title": "10-Q - SIRI (Sirius XM Holdings Inc.)",
-    "ticker": "SIRI",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/908937/000090893719000025/siri-20190630x10q.htm",
     "date": "2019-07-30"
   },
   {
