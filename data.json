@@ -1,5 +1,12 @@
 [
   {
+    "title": "10-Q - LOW (Lowe's Companies, Inc.)",
+    "ticker": "LOW",
+    "form": "10-Q",
+    "link": "https://www.sec.gov/Archives/edgar/data/60667/000006066726000130/low-20261030.htm",
+    "date": "2026-11-25"
+  },
+  {
     "title": "10-Q - TGT (Target Corp)",
     "ticker": "TGT",
     "form": "10-Q",
@@ -21481,12 +21488,5 @@
     "form": "10-Q",
     "link": "https://www.sec.gov/Archives/edgar/data/1613103/000161310318000044/mdt-2019q2x10q.htm",
     "date": "2018-11-29"
-  },
-  {
-    "title": "10-Q - TGT (Target Corp)",
-    "ticker": "TGT",
-    "form": "10-Q",
-    "link": "https://www.sec.gov/Archives/edgar/data/27419/000002741918000036/tgt-20181103x10xq.htm",
-    "date": "2018-11-27"
   }
 ]
